@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T15:20:05.758459+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2025-10-21T16:24:50.343748+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
@@ -46,11 +46,12 @@
             20,
             21,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 15时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 16时24分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -92,11 +93,12 @@
           "ranks": [
             16,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 16时24分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -205,6 +207,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "外交部：愿人工智能技术及更多现代化成果惠及各国民众",
+          "url": "https://wallstreetcn.com/livenews/2991107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "当 AI 成为学生的第二大脑，我们该如何定义新时代的学习与成长？",
           "url": "https://www.zhihu.com/question/1962248252201113014",
           "source": "知乎",
@@ -214,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "AIGC视频如何改变内容行业",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E8%A7%86%E9%A2%91%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E5%86%85%E5%AE%B9%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-21）",
