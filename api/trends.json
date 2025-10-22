@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:37:18.515031+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-10-22T21:32:26.532539+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -156,15 +156,20 @@
           "time_info": "[11时10分 ~ 15时19分]"
         },
         {
-          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
-          "url": "https://flash.jin10.com/detail/20251022203204664800",
-          "source": "金十数据",
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
           "ranks": [
-            1
+            19,
+            17,
+            12,
+            5,
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 21时32分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -187,21 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
-          "url": "https://www.zhihu.com/question/1954568431539036226",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时37分]"
         },
         {
           "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
@@ -239,6 +229,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 17时22分]"
+        },
+        {
+          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
+          "url": "https://flash.jin10.com/detail/20251022203204664800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
         },
         {
           "title": "国内首款AI辅助新药MTS-004完成三期临床",
@@ -327,6 +329,41 @@
           "time_info": "[11时10分 ~ 12时22分]"
         },
         {
+          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/2991930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
+        },
+        {
+          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
+          "url": "https://wallstreetcn.com/livenews/2991928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
+        },
+        {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
           "url": "https://flash.jin10.com/detail/20251022115248161800",
           "source": "金十数据",
@@ -385,6 +422,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时20分]"
+        },
+        {
+          "title": "王鹤棣担任GAI演唱会嘉宾",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26cate%3D5001%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761136210%26pre_seqid%3D1761136210873031824814",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
@@ -455,6 +504,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
           "url": "https://flash.jin10.com/detail/20251022064158770800",
           "source": "金十数据",
@@ -464,28 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/2991930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
-          "url": "https://wallstreetcn.com/livenews/2991928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
@@ -499,17 +537,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "陈茂波：区块链技术和人工智能正引领数字金融服务快速发展",
           "url": "https://wallstreetcn.com/livenews/2991596",
           "source": "华尔街见闻-快讯",
@@ -521,24 +548,13 @@
           "time_info": "11时10分"
         },
         {
-          "title": "王鹤棣担任GAI演唱会嘉宾",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26cate%3D5001%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761136210%26pre_seqid%3D1761136210873031824814",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "据AXIOS网站：Meta Platforms(META.O)将从其AI部门裁减数百个职位。",
           "url": "https://flash.jin10.com/detail/20251022200212296800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
