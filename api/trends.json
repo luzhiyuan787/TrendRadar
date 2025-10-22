@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T18:21:38.815555+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2025-10-22T19:17:59.231390+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -117,6 +117,19 @@
           "time_info": "[00时24分 ~ 14时28分]"
         },
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 19时17分]"
+        },
+        {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
           "url": "https://wallstreetcn.com/articles/3757538",
           "source": "华尔街见闻",
@@ -128,19 +141,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时18分 ~ 16时26分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 18时21分]"
         },
         {
           "title": "曝iPhoneAir暂停生产",
@@ -173,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -195,7 +195,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -213,6 +213,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 17时22分]"
+        },
+        {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时17分]"
         },
         {
           "title": "国内首款AI辅助新药MTS-004完成三期临床",
@@ -263,19 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 12时22分]"
-        },
-        {
-          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
-          "url": "https://www.zhihu.com/question/1954568431539036226",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "英伟达最强AI芯片“美国造”背后",
@@ -409,6 +410,17 @@
           "time_info": "[17时22分 ~ 18时21分]"
         },
         {
+          "title": "曝iPhone Air暂停生产",
+          "url": "https://www.toutiao.com/trending/7563910888818970122/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "OpenAI首个AI浏览器发布",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -519,15 +531,15 @@
           "time_info": "11时10分"
         },
         {
-          "title": "曝iPhone Air暂停生产",
-          "url": "https://www.toutiao.com/trending/7563910888818970122/",
-          "source": "今日头条",
+          "title": "欧盟委员会发言人：欧盟委员会正在评估ChatGPT在欧洲的用户数量。",
+          "url": "https://flash.jin10.com/detail/20251022183455687800",
+          "source": "金十数据",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时17分"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
