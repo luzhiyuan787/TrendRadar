@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T21:32:26.532539+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2025-10-22T22:19:56.659098+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时10分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -165,11 +165,12 @@
             12,
             5,
             9,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 22时19分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -293,6 +294,18 @@
           "time_info": "[09时19分 ~ 12时22分]"
         },
         {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时19分]"
+        },
+        {
           "title": "英伟达最强AI芯片“美国造”背后",
           "url": "https://www.toutiao.com/trending/7562742844079882276/",
           "source": "今日头条",
@@ -303,6 +316,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时20分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时19分]"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -347,17 +371,6 @@
           "ranks": [
             9,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时32分]"
-        },
-        {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -504,17 +517,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
           "url": "https://flash.jin10.com/detail/20251022064158770800",
           "source": "金十数据",
@@ -524,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
+          "url": "https://wallstreetcn.com/livenews/2991966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
