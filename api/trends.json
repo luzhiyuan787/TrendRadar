@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T07:19:07.255078+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-10-22T09:19:17.607872+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -18,11 +18,12 @@
             20,
             14,
             4,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -33,8 +34,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "AI时代需要什么样的程序员",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "iPhone Air评测",
@@ -86,11 +87,12 @@
             16,
             28,
             20,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -115,6 +117,18 @@
           "time_info": "01时18分"
         },
         {
+          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
+          "url": "https://wallstreetcn.com/articles/3757538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时19分]"
+        },
+        {
           "title": "英伟达最强AI芯片“美国造”背后",
           "url": "https://www.toutiao.com/trending/7562742844079882276/",
           "source": "今日头条",
@@ -137,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
-        },
-        {
-          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
-          "url": "https://wallstreetcn.com/articles/3757538",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
@@ -198,15 +201,48 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
           "url": "https://flash.jin10.com/detail/20251022064158770800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
+          "url": "https://wallstreetcn.com/articles/3757536",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
