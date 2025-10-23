@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-10-23T14:28:11.686470+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-10-23T15:21:10.442835+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 35,
       "titles": [
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时28分]"
-        },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
@@ -32,8 +18,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 15时21分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 15时21分]"
+        },
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 15时21分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -47,18 +60,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时18分 ~ 14时28分]"
-        },
-        {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时28分]"
         },
         {
           "title": "马斯克表示，特斯拉之所以更专注于自己的芯片，而不是仅仅依靠英伟达的gpu或人工智能加速器，是因为黄仁勋的公司必须为更广泛的客户提供服务。 马斯克的观点是，特斯拉最好保持简单，使用专门为他们需要完成的任务而设计的芯片（训练和运行支持基于视觉的自动驾驶的模型）。",
@@ -78,7 +79,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
