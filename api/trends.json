@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T20:39:41.924554+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2025-10-24T21:29:53.467009+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             16,
             6,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 21时29分]"
         },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -182,6 +183,18 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 21时29分]"
+        },
+        {
           "title": "美法官承认使用人工智能导致法院裁决出错",
           "url": "https://flash.jin10.com/detail/20251024042842055800",
           "source": "金十数据",
@@ -192,18 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时39分]"
         },
         {
           "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
