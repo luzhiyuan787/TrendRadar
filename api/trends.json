@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T04:19:47.993592+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-10-25T05:17:11.610991+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "AI续写你的名字",
@@ -38,8 +38,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 05时17分]"
+        },
+        {
+          "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
+          "url": "https://www.cls.cn/detail/2180012",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时17分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
