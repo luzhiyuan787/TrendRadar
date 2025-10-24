@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T16:24:45.062287+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-10-24T17:19:50.269310+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[10时59分 ~ 17时19分]"
         },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -128,9 +128,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "据日经新闻：日本与美国将就人工智能和下一代电信标准达成合作共识。",
+          "url": "https://flash.jin10.com/detail/20251024170315281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
@@ -174,11 +185,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
