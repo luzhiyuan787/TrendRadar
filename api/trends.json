@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T05:15:10.936462+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-26T06:15:27.361405+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时15分]"
         }
       ]
     }
