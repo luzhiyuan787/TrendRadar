@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-26T00:20:32.828897+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-26T01:16:19.206773+08:00",
+  "total_titles_processed": 336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 3,
       "titles": [
-        {
-          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
-          "url": "https://wallstreetcn.com/articles/3757873",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
           "url": "https://www.cls.cn/detail/2180505",
@@ -26,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -35,6 +24,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时16分]"
+        },
+        {
+          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
+          "url": "https://wallstreetcn.com/articles/3757873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
