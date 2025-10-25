@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:17:44.947535+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-10-25T16:22:27.725062+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 16时22分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -74,8 +74,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时22分]"
+        },
+        {
+          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
+          "url": "https://www.cls.cn/detail/2180505",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
@@ -91,16 +104,17 @@
           "time_info": "[12时21分 ~ 14时23分]"
         },
         {
-          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
-          "url": "https://www.cls.cn/detail/2180505",
-          "source": "财联社热门",
+          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
+          "url": "https://flash.jin10.com/detail/20251025130119719800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            8
+            15,
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时17分]"
+          "time_info": "[14时23分 ~ 16时22分]"
         },
         {
           "title": "AI时代的国际教育选择",
@@ -124,18 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时17分]"
-        },
-        {
-          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
-          "url": "https://flash.jin10.com/detail/20251025130119719800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时17分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
