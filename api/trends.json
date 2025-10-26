@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T11:10:40.910299+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2025-10-26T12:20:02.502018+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,20 @@
           "time_info": "[00时20分 ~ 09时22分]"
         },
         {
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时20分]"
+        },
+        {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
@@ -41,19 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
-          "url": "https://wallstreetcn.com/articles/3757907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 11时10分]"
         },
         {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
