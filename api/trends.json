@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T09:22:48.525123+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-10-26T11:10:40.910299+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -48,22 +48,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时10分]"
         },
         {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
           "url": "https://wallstreetcn.com/articles/3757825",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时10分]"
         }
       ]
     }
