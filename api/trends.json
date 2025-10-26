@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T19:13:48.895630+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-10-26T20:33:36.594683+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -65,11 +65,12 @@
           "source": "微博",
           "ranks": [
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时33分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -105,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时33分]"
         },
         {
           "title": "华为Mate 70 Air超薄设计曝光",
@@ -152,9 +153,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时33分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时33分"
         },
         {
           "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
