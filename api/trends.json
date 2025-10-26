@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T20:33:36.594683+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-10-26T21:22:51.548833+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -48,6 +48,19 @@
           "time_info": "[00时20分 ~ 09时22分]"
         },
         {
+          "title": "AI把薯片误判为枪惊动八辆美国警车",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26cate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761473178%26pre_seqid%3D1761473178200032949662",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时22分]"
+        },
+        {
           "title": "图灵奖得主聊AI变革图景",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
           "source": "bilibili 热搜",
@@ -60,19 +73,6 @@
           "time_info": "[16时22分 ~ 18时19分]"
         },
         {
-          "title": "AI把薯片误判为枪惊动八辆美国警车",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26cate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761473178%26pre_seqid%3D1761473178200032949662",
-          "source": "微博",
-          "ranks": [
-            1,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时33分]"
-        },
-        {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
@@ -83,6 +83,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
+          "url": "https://www.zhihu.com/question/1965049071443075345",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时22分]"
         },
         {
           "title": "iPhone Air刚上市就卖不动了",
@@ -98,16 +111,15 @@
           "time_info": "[13时19分 ~ 18时19分]"
         },
         {
-          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
-          "url": "https://www.zhihu.com/question/1965049071443075345",
-          "source": "知乎",
+          "title": "网民用AI编造3儿子不养老人被罚",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时22分]"
         },
         {
           "title": "华为Mate 70 Air超薄设计曝光",
@@ -135,6 +147,18 @@
           "time_info": "[15时17分 ~ 16时22分]"
         },
         {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时22分]"
+        },
+        {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
           "url": "https://wallstreetcn.com/articles/3757825",
           "source": "华尔街见闻",
@@ -147,28 +171,6 @@
           "time_info": "[09时22分 ~ 11时10分]"
         },
         {
-          "title": "网民用AI编造3儿子不养老人被罚",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时33分]"
-        },
-        {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
           "url": "https://flash.jin10.com/detail/20251026152903060800",
           "source": "金十数据",
@@ -178,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "AI把玉米片判为枪惊动八辆美国警车",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "沙特投资大臣：沙特阿拉伯也在对数字相关的所有领域进行投资，人工智能尤为重要，而这需要可负担得起的能源，我们在这方面储量丰富。这就是我们将沙特阿拉伯定位为全球数据中心枢纽的原因。",
