@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:23:38.054116+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-10-27T16:24:37.778297+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -96,8 +96,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时24分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -106,7 +106,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
+          "url": "https://www.cls.cn/detail/2181052",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
