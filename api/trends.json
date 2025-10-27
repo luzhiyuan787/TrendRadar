@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-27T07:17:26.824338+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-10-27T09:23:21.612285+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 7,
       "titles": [
+        {
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时23分]"
+        },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
           "url": "https://wallstreetcn.com/articles/3757917",
@@ -26,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时23分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -39,17 +51,6 @@
             16,
             13,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 10,
