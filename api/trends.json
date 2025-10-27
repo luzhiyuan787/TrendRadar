@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T17:24:19.101817+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-10-27T18:21:37.758299+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -75,6 +75,21 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19,
+            16,
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 18时21分]"
+        },
+        {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
@@ -85,20 +100,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 17时24分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -169,6 +170,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
           "url": "https://www.cls.cn/detail/2181052",
           "source": "财联社热门",
@@ -178,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
+          "url": "https://flash.jin10.com/detail/20251027174708809800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "王鹤棣帅成AI了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B8%85%E6%88%90AI%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E5%25B8%2585%25E6%2588%2590AI%25E4%25BA%2586%2523%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
