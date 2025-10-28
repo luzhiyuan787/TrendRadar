@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-10-28T20:36:16.491498+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-10-28T21:29:45.559103+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 20时36分]"
-        },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
@@ -34,15 +22,29 @@
           "time_info": "[07时24分 ~ 15时17分]"
         },
         {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 21时29分]"
+        },
+        {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
           "url": "https://wallstreetcn.com/articles/3758015",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时06分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时06分 ~ 21时29分]"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -129,8 +131,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 21时29分]"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)与OpenAI签署了新协议。",
+          "url": "https://flash.jin10.com/detail/20251028210128191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "微软美股盘前涨近5%，微软与OpenAI签署了一项新协议",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -150,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -254,6 +289,18 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "MiniMax发布Hailuo 2.3模型、Media Agent",
+          "url": "https://wallstreetcn.com/livenews/2995135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时29分]"
+        },
+        {
           "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
           "url": "https://wallstreetcn.com/livenews/2994809",
           "source": "华尔街见闻-快讯",
@@ -288,17 +335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时42分]"
-        },
-        {
-          "title": "MiniMax发布Hailuo 2.3模型、Media Agent",
-          "url": "https://wallstreetcn.com/livenews/2995135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
@@ -560,7 +596,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -648,7 +684,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
