@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T15:19:53.792662+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2025-10-29T16:26:11.745739+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 15时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 16时26分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -60,16 +60,45 @@
           "time_info": "[00时32分 ~ 11时15分]"
         },
         {
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 16时26分]"
+        },
+        {
           "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
           "url": "https://wallstreetcn.com/articles/3758074",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 16时26分]"
+        },
+        {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时20分 ~ 15时19分]"
+          "time_info": "[11时14分 ~ 16时26分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -84,38 +113,12 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
-          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
-          "url": "https://www.cls.cn/detail/2184178",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 15时19分]"
-        },
-        {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -254,6 +257,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
+          "url": "https://www.zhihu.com/question/1961814182115632287",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 16时26分]"
+        },
+        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -278,15 +292,15 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
-          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
-          "url": "https://www.zhihu.com/question/1961814182115632287",
-          "source": "知乎",
+          "title": "商务部等5部门：加强人工智能、物联网、云计算、区块链、扩展现实等技术在城市商业体系中集成应用",
+          "url": "https://www.cls.cn/detail/2184527",
+          "source": "财联社热门",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 15时19分]"
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -581,6 +595,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2995708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "英伟达与诺基亚建立战略合作伙伴关系 共创6G人工智能平台",
           "url": "https://flash.jin10.com/detail/20251029004540998800",
           "source": "金十数据",
@@ -653,7 +678,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -686,7 +711,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -807,7 +832,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
