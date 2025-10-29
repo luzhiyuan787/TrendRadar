@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T21:32:23.249902+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2025-10-29T22:19:00.979490+08:00",
+  "total_titles_processed": 2093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时16分]"
+        },
+        {
+          "title": "外交部回应黄仁勋AI芯片言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时19分]"
         },
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -73,18 +86,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时14分 ~ 17时20分]"
-        },
-        {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时32分]"
         },
         {
           "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
@@ -151,6 +152,19 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
+          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
+          "url": "https://www.cls.cn/detail/2185058",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 22时19分]"
+        },
+        {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
           "url": "https://wallstreetcn.com/articles/3758001",
           "source": "华尔街见闻",
@@ -162,16 +176,17 @@
           "time_info": "[00时32分 ~ 04时22分]"
         },
         {
-          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
-          "url": "https://www.cls.cn/detail/2185058",
-          "source": "财联社热门",
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3
+            18,
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时19分]"
         },
         {
           "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
@@ -220,6 +235,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时27分 ~ 17时20分]"
+        },
+        {
+          "title": "网民用AI编造散播谣言被处罚",
+          "url": "https://www.douyin.com/hot/2287291",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
@@ -332,19 +358,6 @@
           "time_info": "02时30分"
         },
         {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 21时32分]"
-        },
-        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -381,15 +394,15 @@
           "time_info": "[18时19分 ~ 20时39分]"
         },
         {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
+          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
+          "url": "https://wallstreetcn.com/articles/3758110",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时19分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -574,17 +587,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
-          "url": "https://wallstreetcn.com/articles/3758110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "英伟达(NVDA.O)将与三星、现代公司达成AI合作。",
           "url": "https://flash.jin10.com/detail/20251029005148492800",
           "source": "金十数据",
@@ -646,7 +648,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -943,7 +945,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -992,6 +994,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
+          "url": "https://wallstreetcn.com/livenews/2996021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
           "url": "https://flash.jin10.com/detail/20251029144659448800",
           "source": "金十数据",
@@ -1009,7 +1022,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
