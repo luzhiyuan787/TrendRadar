@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T19:17:56.771678+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-10-29T20:39:08.784757+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -88,6 +88,19 @@
           "time_info": "[09时20分 ~ 18时19分]"
         },
         {
+          "title": "商务部等5部门：加强人工智能、物联网、云计算、区块链、扩展现实等技术在城市商业体系中集成应用",
+          "url": "https://www.cls.cn/detail/2184527",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 20时39分]"
+        },
+        {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
           "url": "https://www.cls.cn/detail/2184173",
           "source": "财联社热门",
@@ -110,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 20时39分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -126,17 +139,16 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
-          "title": "商务部等5部门：加强人工智能、物联网、云计算、区块链、扩展现实等技术在城市商业体系中集成应用",
-          "url": "https://www.cls.cn/detail/2184527",
-          "source": "财联社热门",
+          "title": "外交部回应黄仁勋AI芯片言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            4,
-            2
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时17分]"
+          "time_info": "[17时20分 ~ 20时39分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -150,16 +162,15 @@
           "time_info": "[00时32分 ~ 04时22分]"
         },
         {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
+          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
+          "url": "https://www.cls.cn/detail/2185058",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
@@ -305,6 +316,20 @@
           "time_info": "02时30分"
         },
         {
+          "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
+          "url": "https://www.cls.cn/detail/2184651",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时39分]"
+        },
+        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -329,17 +354,39 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
-          "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
-          "url": "https://www.cls.cn/detail/2184651",
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时39分]"
+        },
+        {
+          "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
+          "url": "https://www.cls.cn/detail/2184531",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            8
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时39分]"
+        },
+        {
+          "title": "网民用AI编造散播谣言被处罚",
+          "url": "https://www.douyin.com/hot/2287291",
+          "source": "抖音",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "time_info": "[19时17分 ~ 20时39分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -378,18 +425,6 @@
           "time_info": "[06时19分 ~ 07时16分]"
         },
         {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时17分]"
-        },
-        {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
           "url": "https://flash.jin10.com/detail/20251029050455312800",
           "source": "金十数据",
@@ -400,18 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时16分]"
-        },
-        {
-          "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
-          "url": "https://www.cls.cn/detail/2184531",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "英伟达官宣拟10亿美元入股诺基亚 携手加速AI-RAN与6G革命",
@@ -499,7 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -510,7 +533,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -590,17 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
@@ -867,6 +879,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "创业黑马：与上海信弘签署战略合作框架协议，围绕NVIDIA的人工智能技术体系能力，基于创业黑马中小企业生态服务体系和上海信弘的技术能力，构建基于中小企业的人工智能应用服务平台，用普惠AI能力帮助中小企业成长。",
+          "url": "https://wallstreetcn.com/livenews/2995956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "张兴朝以为张艺兴跳五子棋是AI",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BC%A0%E5%85%B4%E6%9C%9D%E4%BB%A5%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%B3%E4%BA%94%E5%AD%90%E6%A3%8B%E6%98%AFAI&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D25%26cate%3D5001%26q%3D%25E5%25BC%25A0%25E5%2585%25B4%25E6%259C%259D%25E4%25BB%25A5%25E4%25B8%25BA%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E8%25B7%25B3%25E4%25BA%2594%25E5%25AD%2590%25E6%25A3%258B%25E6%2598%25AFAI%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D24%26filter_type%3Drealtimehot%26realpos%3D24%26lcate%3D5001%26c_type%3D31%26display_time%3D1761729605%26pre_seqid%3D176172960574501087609127",
           "source": "微博",
@@ -942,6 +965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "IBM(IBM.N)宣布推出以国防为重点的人工智能模型，以加快任务规划和决策支持。",
+          "url": "https://flash.jin10.com/detail/20251029200058220800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     }
