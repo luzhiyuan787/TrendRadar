@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:16:54.783744+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2025-10-29T09:21:13.972120+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时21分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -38,11 +38,12 @@
             8,
             5,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时21分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -55,6 +56,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 06时19分]"
+        },
+        {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时17分 ~ 09时21分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -121,19 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 07时16分]"
         },
         {
           "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
@@ -215,6 +217,17 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
           "url": "https://wallstreetcn.com/livenews/2995371",
           "source": "华尔街见闻-快讯",
@@ -275,6 +288,17 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "黄仁勋勾勒AI宏伟蓝图",
+          "url": "https://www.toutiao.com/trending/7566173103559032851/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -304,9 +328,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "韩国总统李在明：将在亚太经合组织峰会上提出人工智能倡议。",
+          "url": "https://flash.jin10.com/detail/20251029085639260800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
@@ -351,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "韩国总统李在明：亚太地区商界领袖通过合作助力实现共同繁荣。 希望在APEC工商领导人峰会上共同寻求危机解决方案。 保护主义和民族主义正在抬头，如今的贸易环境与20年前大不相同。 事实证明，危机时期互信是实现共同繁荣的关键。 供应链合作是关键。 将在亚太经合组织(APEC)峰会上提出人工智能倡议。",
+          "url": "https://wallstreetcn.com/livenews/2995457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
