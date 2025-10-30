@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:22:01.616216+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-10-30T19:15:51.126405+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -87,17 +87,6 @@
           "time_info": "12时21分"
         },
         {
-          "title": "美国商务部长卢特尼克：韩国2000亿美元对美投资将用于阿拉斯加天然气项目及人工智能。",
-          "url": "https://flash.jin10.com/detail/20251030090005000800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
@@ -107,8 +96,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：韩国2000亿美元对美投资将用于阿拉斯加天然气项目及人工智能。",
+          "url": "https://flash.jin10.com/detail/20251030090005000800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
@@ -418,7 +418,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
