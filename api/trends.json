@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T16:24:44.438321+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-10-30T17:21:41.334975+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时18分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[05时18分 ~ 17时21分]"
         },
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 07时17分]"
+        },
+        {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 17时21分]"
         },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -44,21 +59,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时20分 ~ 16时24分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 16时24分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -227,6 +227,18 @@
           "time_info": "[13时17分 ~ 14时29分]"
         },
         {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时21分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
           "url": "https://flash.jin10.com/detail/20251030053716449800",
           "source": "金十数据",
@@ -285,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
