@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T15:17:21.298608+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-10-31T16:24:35.957291+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -29,8 +29,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 15时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 16时24分]"
+        },
+        {
+          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
+          "url": "https://wallstreetcn.com/articles/3758276",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 16时24分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -47,19 +60,6 @@
           "time_info": "[01时16分 ~ 13时20分]"
         },
         {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 15时17分]"
-        },
-        {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
           "url": "https://www.cls.cn/detail/2186913",
           "source": "财联社热门",
@@ -71,6 +71,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时14分 ~ 07时17分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 16时24分]"
         },
         {
           "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 15时17分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -399,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -421,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -432,7 +433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -454,7 +455,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -487,7 +488,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -520,9 +521,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "中兴AI家庭全场景在京亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4AI%E5%AE%B6%E5%BA%AD%E5%85%A8%E5%9C%BA%E6%99%AF%E5%9C%A8%E4%BA%AC%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
@@ -553,7 +565,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -564,7 +576,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
