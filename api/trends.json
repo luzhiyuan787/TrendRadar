@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:20:38.838707+08:00",
-  "total_titles_processed": 1994,
+  "generated_at": "2025-10-31T23:19:32.587685+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时23分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时23分 ~ 23时19分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -110,6 +110,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -185,18 +219,6 @@
           "time_info": "[03时14分 ~ 04时20分]"
         },
         {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时20分]"
-        },
-        {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
           "url": "https://wallstreetcn.com/articles/3758381",
           "source": "华尔街见闻",
@@ -204,8 +226,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "AI黄仁勋演讲骗倒10万老外",
@@ -230,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时19分]"
         },
         {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
@@ -302,6 +336,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时20分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时19分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
@@ -410,17 +456,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "国家发改委：打造数字赋能文旅、体育、数字消费等新型数字生活场景，推动人工智能在消费场景应用",
           "url": "https://wallstreetcn.com/livenews/2997328",
           "source": "华尔街见闻-快讯",
@@ -454,6 +489,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
           "url": "https://flash.jin10.com/detail/20251031163933365800",
           "source": "金十数据",
@@ -474,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
@@ -553,6 +588,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
           "url": "https://flash.jin10.com/detail/20251031033619025800",
           "source": "金十数据",
@@ -584,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251031222512027800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
