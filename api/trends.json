@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T18:19:19.515965+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-10-31T19:15:36.779314+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,26 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 19时15分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 19时15分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -44,19 +59,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时17分 ~ 16时24分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 18时19分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
