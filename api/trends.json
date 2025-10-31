@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T04:22:53.736549+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-01T05:15:45.462816+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时15分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -28,19 +28,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时15分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
           "url": "https://wallstreetcn.com/articles/3758381",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时15分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
