@@ -1,222 +1,33 @@
 {
-  "generated_at": "2025-10-31T23:19:32.587685+08:00",
-  "total_titles_processed": 2077,
+  "generated_at": "2025-11-01T00:26:11.546172+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 62,
+      "match_count": 8,
       "titles": [
         {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 19时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时23分 ~ 23时19分]"
-        },
-        {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 16时24分]"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            29,
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 13时20分]"
-        },
-        {
-          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
-          "url": "https://www.cls.cn/detail/2186913",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 07时17分]"
-        },
-        {
-          "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
-          "url": "https://www.cls.cn/detail/2187024",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 13时20分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
-          "url": "https://flash.jin10.com/detail/20251031115715805800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
-          "url": "https://wallstreetcn.com/livenews/2997796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 23时19分]"
-        },
-        {
-          "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
-          "url": "https://wallstreetcn.com/livenews/2997044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
-          "url": "https://flash.jin10.com/detail/20251031054225724800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
-          "url": "https://wallstreetcn.com/livenews/2997144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2997159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
-          "url": "https://flash.jin10.com/detail/20251031053211799800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
-          "url": "https://wallstreetcn.com/livenews/2997090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时20分]"
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -226,509 +37,63 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 23时19分]"
-        },
-        {
-          "title": "AI黄仁勋演讲骗倒10万老外",
-          "url": "https://www.toutiao.com/trending/7566996479697489462/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时23分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
-          "url": "https://flash.jin10.com/detail/20251031040501886800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时18分]"
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时19分]"
-        },
-        {
-          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251031043733799800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20251031043612973800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
-          "url": "https://flash.jin10.com/detail/20251031015822268800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：正在大幅增加对人工智能的投资。",
-          "url": "https://flash.jin10.com/detail/20251031052725702800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
-          "url": "https://wallstreetcn.com/livenews/2997151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "10月31日午间收评：创业板指半日跌1.49%，AI应用、医药股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/2997369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时19分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
-          "url": "https://flash.jin10.com/detail/20251031043441895800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "Alight和IBM将成立一个虚拟AI创新实验室。",
-          "url": "https://wallstreetcn.com/livenews/2997134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
-          "url": "https://wallstreetcn.com/livenews/2997133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
-          "url": "https://flash.jin10.com/detail/20251031052114542800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
-          "url": "https://flash.jin10.com/detail/20251031052038069800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。 Competitive Power Ventures将修建1,350 MW二叠纪盆地天然气工厂。 Devon、Coterra、Diamondback Energy将向得克萨斯州天然气工厂供应天然气。",
-          "url": "https://wallstreetcn.com/livenews/2997025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "小米可穿戴部创新产品业务负责人李创奇已离职，曾力推AI眼镜",
-          "url": "https://wallstreetcn.com/livenews/2997702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时30分]"
-        },
-        {
-          "title": "黄仁勋要做的不只是AI还要接管方向盘",
-          "url": "https://www.toutiao.com/trending/7566904243722915364/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
-          "url": "https://wallstreetcn.com/livenews/2997155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "国家发改委：打造数字赋能文旅、体育、数字消费等新型数字生活场景，推动人工智能在消费场景应用",
-          "url": "https://wallstreetcn.com/livenews/2997328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：如果意大利批准ESM（欧洲稳定机制），将表示欢迎。 意大利经济形势让人印象深刻。（RAI1）",
-          "url": "https://wallstreetcn.com/livenews/2997104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "英伟达与韩国企业达成人工智能协议",
-          "url": "https://flash.jin10.com/detail/20251031142918336800",
+          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251031235402298800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "00时26分"
         },
         {
-          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
+          "url": "https://wallstreetcn.com/livenews/2997809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
           "url": "https://wallstreetcn.com/livenews/2997787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
-          "url": "https://flash.jin10.com/detail/20251031163933365800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发展改革委：新型政策性金融工具5000亿元资金已全部投放完毕，重点投向数字经济、人工智能等领域",
-          "url": "https://wallstreetcn.com/livenews/2997319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
-          "url": "https://flash.jin10.com/detail/20251031142729217800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与Naver Cloud、LG AI研究、SK电讯、NC AI和Upstage合作开发大型语言模型。",
-          "url": "https://flash.jin10.com/detail/20251031142445285800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2997098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Naver Cloud正在扩展英伟达人工智能基础设施，配备超过6万块GPU。",
-          "url": "https://flash.jin10.com/detail/20251031142423435800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：韩国必须抓住机遇，成为全球主要的人工智能中心之一。",
-          "url": "https://flash.jin10.com/detail/20251031163314573800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "中国信通院人工智能所联合发布《大模型一体机应用研究报告（2025年）》",
-          "url": "https://wallstreetcn.com/livenews/2997385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
-          "url": "https://wallstreetcn.com/livenews/2997800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
-          "url": "https://flash.jin10.com/detail/20251031033619025800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141930569800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
-          "url": "https://flash.jin10.com/detail/20251031205708619800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251031222512027800",
-          "source": "金十数据",
-          "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
-          "url": "https://wallstreetcn.com/livenews/2997121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
-          "url": "https://wallstreetcn.com/livenews/2997155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：SK集团正在建设配备超5万块英伟达GPU的人工智能工厂，打造亚洲首个工业级人工智能云。",
-          "url": "https://flash.jin10.com/detail/20251031141649618800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "中兴AI家庭全场景在京亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4AI%E5%AE%B6%E5%BA%AD%E5%85%A8%E5%9C%BA%E6%99%AF%E5%9C%A8%E4%BA%AC%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
-          "url": "https://flash.jin10.com/detail/20251031032500123800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)将向AI初创公司Poolside投资至多10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251031032412391800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：将有超过5万台英伟达GPU部署于韩国主权云和人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141537780800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：正与韩国合作，以扩展该国人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251031141420413800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "00时26分"
         }
       ]
     }
