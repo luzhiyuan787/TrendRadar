@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T15:17:18.964196+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-11-01T16:22:30.664750+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 16时22分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 16时22分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -113,6 +113,18 @@
           "time_info": "[11时10分 ~ 13时17分]"
         },
         {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时22分]"
+        },
+        {
           "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
           "url": "https://flash.jin10.com/detail/20251101090947123800",
           "source": "金十数据",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 12时21分]"
-        },
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
