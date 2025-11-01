@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T12:21:06.475268+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-11-01T13:17:00.917573+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 13时17分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -57,8 +57,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 13时17分]"
+        },
+        {
+          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
+          "url": "https://flash.jin10.com/detail/20251101125245344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
+          "url": "https://flash.jin10.com/detail/20251101125236158800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -74,24 +96,25 @@
           "time_info": "[06时17分 ~ 09时22分]"
         },
         {
+          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2997940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时17分]"
+        },
+        {
           "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
           "url": "https://flash.jin10.com/detail/20251101090947123800",
           "source": "金十数据",
           "ranks": [
             6,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时21分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
