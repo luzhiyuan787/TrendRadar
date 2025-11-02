@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:31:30.982191+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-11-02T21:21:57.526997+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时26分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时26分 ~ 21时21分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -74,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时20分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[12时20分 ~ 21时21分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -224,11 +225,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时21分]"
         },
         {
           "title": "AI革命美国企业疯狂裁员背后",
