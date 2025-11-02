@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:19:10.820725+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-11-02T19:14:49.379580+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 19时14分]"
+        },
+        {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 19时14分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -75,21 +90,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时17分 ~ 11时16分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时19分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
