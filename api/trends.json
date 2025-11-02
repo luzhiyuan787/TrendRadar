@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T07:15:48.083288+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-02T09:24:28.042557+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,19 +16,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时24分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
           "url": "https://wallstreetcn.com/articles/3758471",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 09时24分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 09时24分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -40,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时24分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -60,16 +74,15 @@
           "time_info": "[00时20分 ~ 06时15分]"
         },
         {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
+          "title": "AI革命美国企业疯狂裁员背后",
+          "url": "https://www.toutiao.com/trending/7567900229551263258/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            22
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
