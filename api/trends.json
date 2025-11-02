@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T04:19:16.462406+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-11-03T05:15:50.455745+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 05时15分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -50,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -59,11 +59,12 @@
           "source": "金十数据",
           "ranks": [
             20,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
@@ -71,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
