@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T02:27:01.649543+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-04T03:15:09.771398+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时15分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时15分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时15分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时15分]"
         },
         {
           "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时15分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
