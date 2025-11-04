@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T17:22:10.701772+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-11-04T18:21:28.783446+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
@@ -44,18 +44,17 @@
           "time_info": "[07时21分 ~ 16时25分]"
         },
         {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
+          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
+          "url": "https://www.cls.cn/detail/2190323",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            11,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时20分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 18时21分]"
         },
         {
           "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
@@ -72,17 +71,19 @@
           "time_info": "[11时10分 ~ 17时22分]"
         },
         {
-          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
-          "url": "https://www.cls.cn/detail/2190323",
-          "source": "财联社热门",
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            4,
-            2
+            9,
+            7,
+            6,
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[06时20分 ~ 18时21分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -98,8 +99,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 18时21分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -113,8 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时21分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[04时21分 ~ 18时21分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -153,8 +154,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 18时21分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -178,8 +179,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 18时21分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -193,6 +194,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时10分 ~ 15时20分]"
+        },
+        {
+          "title": "马斯克：体力劳动更难被AI取代",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时21分]"
         },
         {
           "title": "韩国总统李在明：向人工智能社会的过渡是不可避免的。",
@@ -217,17 +232,16 @@
           "time_info": "12时22分"
         },
         {
-          "title": "马斯克：体力劳动更难被AI取代",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "百度热搜",
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            24,
-            22
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
@@ -255,15 +269,16 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
+          "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
+          "url": "https://www.cls.cn/detail/2190367",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
@@ -288,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
-          "url": "https://www.cls.cn/detail/2190367",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
