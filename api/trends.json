@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:41:06.931974+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-11-04T21:33:11.814123+08:00",
+  "total_titles_processed": 1899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时20分 ~ 20时41分]"
+          "appearance_count": 21,
+          "time_info": "[06时20分 ~ 21时33分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -99,11 +99,12 @@
             12,
             17,
             18,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 20时41分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 21时33分]"
         },
         {
           "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
@@ -167,11 +168,25 @@
             17,
             19,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 20时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 21时33分]"
+        },
+        {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 21时33分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -184,19 +199,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 06时20分]"
-        },
-        {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时41分]"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
@@ -287,6 +289,18 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 21时33分]"
+        },
+        {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
           "url": "https://flash.jin10.com/detail/20251104010445850800",
           "source": "金十数据",
@@ -309,17 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "美ICU宰客19万,AI揭底秒修复",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
@@ -479,6 +482,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
           "url": "https://wallstreetcn.com/livenews/2998642",
           "source": "华尔街见闻-快讯",
@@ -518,7 +532,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
