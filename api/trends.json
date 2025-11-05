@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T19:16:43.067713+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-11-05T20:37:51.550094+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -34,6 +34,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时25分 ~ 17时21分]"
+        },
+        {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 20时37分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -97,11 +111,12 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时23分 ~ 20时37分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -130,19 +145,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
-          "url": "https://www.cls.cn/detail/2191698",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
@@ -230,6 +232,18 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
+          "url": "https://www.cls.cn/detail/2192067",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO：人工智能业务将在2027年达到数百亿美元，PC业务营收增长速度将超过市场平均水平。",
           "url": "https://flash.jin10.com/detail/20251105061758345800",
           "source": "金十数据",
@@ -311,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时19分]"
+        },
+        {
+          "title": "晶泰科技子公司与礼来在双抗领域达成3.45亿美元AI大分子研发合作",
+          "url": "https://wallstreetcn.com/livenews/2999868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "香港财政司司长陈茂波：将以双引擎战略发展AI",
@@ -432,28 +458,6 @@
           "time_info": "11时25分"
         },
         {
-          "title": "晶泰科技子公司与礼来在双抗领域达成3.45亿美元AI大分子研发合作",
-          "url": "https://wallstreetcn.com/livenews/2999868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
-          "url": "https://www.cls.cn/detail/2192067",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
           "url": "https://wallstreetcn.com/livenews/2999390",
           "source": "华尔街见闻-快讯",
@@ -540,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
