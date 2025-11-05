@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T16:26:10.775286+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2025-11-05T17:21:47.305853+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             13,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 17时21分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -76,11 +77,12 @@
             27,
             16,
             26,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时21分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -92,11 +94,12 @@
             18,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时21分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -199,6 +202,18 @@
           "time_info": "05时17分"
         },
         {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
           "url": "https://flash.jin10.com/detail/20251105000406065800",
           "source": "金十数据",
@@ -293,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时19分]"
-        },
-        {
-          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
-          "url": "https://www.cls.cn/detail/2191698",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "香港财政司司长陈茂波：将以双引擎战略发展AI",
@@ -574,7 +578,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -596,7 +600,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -618,7 +622,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
