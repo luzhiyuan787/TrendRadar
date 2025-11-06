@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T18:21:25.692358+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-06T19:16:15.284198+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 19时16分]"
         },
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -49,6 +49,20 @@
           "time_info": "[00时23分 ~ 11时13分]"
         },
         {
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 19时16分]"
+        },
+        {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
@@ -66,17 +80,19 @@
           "time_info": "[00时23分 ~ 17时20分]"
         },
         {
-          "title": "华为Mate 70 Air评测",
-          "url": "https://www.douyin.com/hot/2296483",
-          "source": "抖音",
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            2,
-            7
+            30,
+            25,
+            26,
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -104,21 +120,6 @@
           "time_info": "[09时20分 ~ 15时18分]"
         },
         {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            26,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 18时21分]"
-        },
-        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
+          "url": "https://wallstreetcn.com/livenews/3000520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
@@ -236,6 +248,19 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "黄仁勋直白表态：中国AI将击败美国",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -331,6 +356,18 @@
           "time_info": "[16时24分 ~ 16时25分]"
         },
         {
+          "title": "印度财政部长：将对人工智能监管采取审慎包容的治理方针。",
+          "url": "https://flash.jin10.com/detail/20251106175959823800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
@@ -343,16 +380,16 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
+          "title": "美国企业10月裁员规模创20多年来同期最高 人工智能变革冲击就业市场",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            18
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
@@ -412,6 +449,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "美团：餐饮堂食合作门店已全量接入AI经营助手“智能掌柜”",
+          "url": "https://wallstreetcn.com/livenews/3000509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
           "url": "https://wallstreetcn.com/livenews/3000080",
           "source": "华尔街见闻-快讯",
@@ -423,24 +471,13 @@
           "time_info": "05时17分"
         },
         {
-          "title": "印度财政部长：将对人工智能监管采取审慎包容的治理方针。",
-          "url": "https://flash.jin10.com/detail/20251106175959823800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "佘诗曼新闻女王2把AI干冒烟了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BD%98%E8%AF%97%E6%9B%BC%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E6%8A%8AAI%E5%B9%B2%E5%86%92%E7%83%9F%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D15%26cate%3D5001%26lcate%3D5001%26realpos%3D14%26band_rank%3D14%26stream_entry_id%3D31%26q%3D%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E6%2596%25B0%25E9%2597%25BB%25E5%25A5%25B3%25E7%258E%258B2%25E6%258A%258AAI%25E5%25B9%25B2%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%26flag%3D1%26dgr%3D0%26display_time%3D1762424471%26pre_seqid%3D1762424471857094324123&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -454,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "美国企业10月裁员规模创20多年来同期最高 人工智能变革冲击就业市场",
-          "url": "https://wallstreetcn.com/livenews/3000470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -484,7 +510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -506,7 +532,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
