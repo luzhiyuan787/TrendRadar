@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T00:19:55.139575+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-11-08T01:16:46.014706+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时16分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
+          "url": "https://flash.jin10.com/detail/20251108010615120800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时16分"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -26,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时16分]"
         }
       ]
     }
