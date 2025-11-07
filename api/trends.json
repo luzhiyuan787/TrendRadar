@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T22:19:34.862788+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2025-11-07T23:19:09.401463+08:00",
+  "total_titles_processed": 2082,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 23时19分]"
         },
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -115,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时22分 ~ 23时19分]"
         },
         {
           "title": "华为Mate 70 Air评测",
