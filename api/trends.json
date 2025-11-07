@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T01:16:46.014706+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-08T02:25:34.885462+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时25分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -37,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时25分]"
         }
       ]
     }
