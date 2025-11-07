@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T21:28:31.684765+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2025-11-07T22:19:34.862788+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[01时18分 ~ 13时20分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时09分 ~ 22时19分]"
+        },
+        {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[06时17分 ~ 21时28分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时09分 ~ 21时28分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -110,11 +111,12 @@
             15,
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 22时19分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -131,6 +133,21 @@
           "time_info": "[00时23分 ~ 13时20分]"
         },
         {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时19分]"
+        },
+        {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
           "url": "https://www.cls.cn/detail/2193718",
           "source": "财联社热门",
@@ -144,20 +161,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时09分 ~ 17时19分]"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时28分]"
         },
         {
           "title": "欧盟委员会：欧盟可能在“数字综合法案”中解决对《人工智能法案》的担忧。",
@@ -377,11 +380,12 @@
           "url": "https://wallstreetcn.com/articles/3758866",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 22时19分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
