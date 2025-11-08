@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:24:25.654487+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2025-11-08T15:16:18.254550+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时15分 ~ 14时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 15时16分]"
         },
         {
           "title": "“六小龙”乌镇对话思考AI和未来",
@@ -28,8 +28,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时16分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 15时16分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -41,19 +55,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 14时24分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -118,27 +119,29 @@
           "time_info": "[11时02分 ~ 14时24分]"
         },
         {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时16分]"
+        },
+        {
           "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
           "url": "https://wallstreetcn.com/livenews/3001497",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时24分]"
-        },
-        {
-          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
-          "url": "https://www.cls.cn/detail/2194802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时16分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
