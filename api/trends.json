@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T05:16:56.274866+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-11-10T06:17:20.962160+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,35 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时17分]"
+        },
+        {
+          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时17分]"
+        },
+        {
+          "title": "张朝阳：有些时候我们要拒绝AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            24,
+            14,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
+          "time_info": "[01时14分 ~ 06时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -26,18 +53,6 @@
             13,
             24,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -57,20 +72,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时16分]"
-        },
-        {
-          "title": "张朝阳：有些时候我们要拒绝AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            24,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
