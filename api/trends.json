@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:22:11.237256+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-10T18:21:28.660868+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 18时21分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -44,11 +44,12 @@
             12,
             13,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 18时21分]"
         },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -93,6 +94,20 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时21分]"
+        },
+        {
           "title": "张朝阳：有些时候我们要拒绝AI",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
           "source": "百度热搜",
@@ -109,17 +124,28 @@
           "time_info": "[01时14分 ~ 07时16分]"
         },
         {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
-          "source": "财联社热门",
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时19分 ~ 17时22分]"
+          "time_info": "[14时29分 ~ 18时21分]"
+        },
+        {
+          "title": "电力供应紧张制约AI繁荣 数据中心高需求遭遇供电危机",
+          "url": "https://flash.jin10.com/detail/20251110180623108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -150,17 +176,6 @@
           "time_info": "[00时19分 ~ 05时16分]"
         },
         {
-          "title": "美团AI新进展：首款AI IDE产品CatPaw开启公测",
-          "url": "https://wallstreetcn.com/livenews/3002073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "英矽智能与礼来达成AI驱动药物研发合作，总额超过1亿美金",
           "url": "https://wallstreetcn.com/livenews/3001818",
           "source": "华尔街见闻-快讯",
@@ -172,16 +187,16 @@
           "time_info": "09时23分"
         },
         {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时22分]"
+          "time_info": "[15时18分 ~ 18时21分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -220,6 +235,18 @@
           "time_info": "[14时29分 ~ 15时18分]"
         },
         {
+          "title": "美团AI新进展：首款AI IDE产品CatPaw开启公测",
+          "url": "https://wallstreetcn.com/livenews/3002073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
           "url": "https://wallstreetcn.com/livenews/3001961",
           "source": "华尔街见闻-快讯",
@@ -232,27 +259,29 @@
           "time_info": "[14时29分 ~ 15时18分]"
         },
         {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时22分]"
-        },
-        {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 18时21分]"
+        },
+        {
+          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3002060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时26分]"
+          "time_info": "[17时22分 ~ 18时21分]"
         },
         {
           "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
@@ -299,17 +328,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
-          "url": "https://wallstreetcn.com/livenews/3002060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
           "url": "https://flash.jin10.com/detail/20251110120705247800",
           "source": "金十数据",
@@ -319,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "人工智能替代人工作之后，人们去干什么？",
+          "url": "https://www.zhihu.com/question/1969381221114048758",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
