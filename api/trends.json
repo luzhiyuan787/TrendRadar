@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T13:19:05.568493+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-11-11T14:28:24.544188+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -45,8 +45,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -87,13 +87,25 @@
           "time_info": "[02时25分 ~ 09时21分]"
         },
         {
+          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
+          "url": "https://www.cls.cn/detail/2196521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时28分]"
+        },
+        {
           "title": "市场消息：韩国拟建的大型数据中心或将成为首个由人工智能建设和运营的数据中心，该数据中心将由人工智能设计和运营，仅需极少的人工监管。",
           "url": "https://flash.jin10.com/detail/20251111124909809800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -110,16 +122,15 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
-          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
-          "url": "https://www.cls.cn/detail/2196521",
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
@@ -152,11 +163,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -337,9 +349,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "AI投资热引发担忧 美科技巨头债券遭抛售",
+          "url": "https://flash.jin10.com/detail/20251111131842385800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "C3 AI在创始人辞职后探索出售及其他选项",
