@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T19:16:44.820968+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-11-11T20:37:04.539480+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 20时37分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -120,6 +120,20 @@
           "time_info": "[02时25分 ~ 09时21分]"
         },
         {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时37分]"
+        },
+        {
           "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
           "url": "https://www.cls.cn/detail/2196521",
           "source": "财联社热门",
@@ -143,15 +157,15 @@
           "time_info": "13时19分"
         },
         {
-          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002756",
+          "title": "上海市新增2款已完成备案的生成式人工智能服务，累计已完成106款生成式人工智能服务备案。（网信上海）",
+          "url": "https://wallstreetcn.com/livenews/3002800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "20时37分"
         },
         {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
@@ -179,18 +193,30 @@
           "time_info": "[01时16分 ~ 07时17分]"
         },
         {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            9,
-            11
+            14,
+            13,
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "time_info": "[17时20分 ~ 20时37分]"
+        },
+        {
+          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3002756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
@@ -217,17 +243,27 @@
           "time_info": "[02时25分 ~ 03时15分]"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13,
-            15
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -276,17 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
-          "url": "https://wallstreetcn.com/articles/3759084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "苹果推迟发布下一代iPhone Air。（The Information）",
@@ -380,24 +405,13 @@
           "time_info": "18时20分"
         },
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "AI投资热潮遭遇资本支出“反噬” 苹果因保守策略意外成为避风港",
           "url": "https://flash.jin10.com/detail/20251111190155430800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -468,6 +482,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3002781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-11）",
           "url": "https://flash.jin10.com/detail/20251111115317382800",
           "source": "金十数据",
@@ -496,7 +521,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -523,6 +548,28 @@
           "time_info": "18时20分"
         },
         {
+          "title": "Meta首席AI科学家离职 公司AI战略加速重组",
+          "url": "https://flash.jin10.com/detail/20251111193748153800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://flash.jin10.com/detail/20251111193633322800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
           "url": "https://wallstreetcn.com/livenews/3002563",
           "source": "华尔街见闻-快讯",
@@ -532,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "新增73款生成式人工智能服务在国家网信办完成备案",
+          "url": "https://wallstreetcn.com/livenews/3002762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "软银首席财务官：无法判断我们是否处于AI泡沫之中。",
