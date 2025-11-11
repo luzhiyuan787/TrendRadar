@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:37:04.539480+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2025-11-11T21:30:20.302329+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 20时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时23分 ~ 21时30分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -157,15 +157,18 @@
           "time_info": "13时19分"
         },
         {
-          "title": "上海市新增2款已完成备案的生成式人工智能服务，累计已完成106款生成式人工智能服务备案。（网信上海）",
-          "url": "https://wallstreetcn.com/livenews/3002800",
-          "source": "华尔街见闻-快讯",
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            14,
+            13,
+            15,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
@@ -193,20 +196,6 @@
           "time_info": "[01时16分 ~ 07时17分]"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时37分]"
-        },
-        {
           "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3002756",
           "source": "华尔街见闻-快讯",
@@ -217,6 +206,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 20时37分]"
+        },
+        {
+          "title": "上海市新增2款已完成备案的生成式人工智能服务，累计已完成106款生成式人工智能服务备案。（网信上海）",
+          "url": "https://wallstreetcn.com/livenews/3002800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时30分]"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 21时30分]"
         },
         {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
@@ -252,18 +266,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时20分 ~ 20时37分]"
-        },
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -383,6 +385,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "美国财长贝森特：人工智能投资有望带来显著的就业增长。",
+          "url": "https://wallstreetcn.com/livenews/3002822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
           "url": "https://flash.jin10.com/detail/20251111003834643800",
           "source": "金十数据",
@@ -414,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美国财长贝森特：可从人工智能投资中看到大量就业增长。",
+          "url": "https://flash.jin10.com/detail/20251111205855692800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "李飞飞教授预言AI下一个十年",
@@ -482,13 +506,24 @@
           "time_info": "04时21分"
         },
         {
+          "title": "国家医保局：加强跨省异地就医管理，探索开展移动支付、信用支付和人工智能经办等创新服务方式",
+          "url": "https://wallstreetcn.com/livenews/3002813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
           "url": "https://wallstreetcn.com/livenews/3002781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -513,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "欧盟坚称将强制执行AI和数据隐私规则 拒绝受美国影响",
+          "url": "https://flash.jin10.com/detail/20251111205124420800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "微软宣布在葡萄牙锡尼什投资100亿美元建设AI数据中心",
@@ -554,7 +600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -565,7 +611,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -587,7 +633,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
