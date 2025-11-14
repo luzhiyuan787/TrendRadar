@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:46:29.035552+08:00",
-  "total_titles_processed": 326,
+  "generated_at": "2025-11-14T12:25:42.318608+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -26,19 +26,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
           "url": "https://www.cls.cn/detail/2200326",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -48,8 +60,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时25分]"
         },
         {
           "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
@@ -58,28 +94,6 @@
           "ranks": [
             11,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -106,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时33分 ~ 11时34分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
