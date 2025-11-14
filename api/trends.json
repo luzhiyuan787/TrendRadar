@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T18:24:08.316830+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-11-14T19:18:26.507029+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时33分 ~ 18时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时33分 ~ 19时18分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -49,11 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时33分 ~ 18时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时33分 ~ 19时18分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -63,11 +64,12 @@
             11,
             14,
             18,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时33分 ~ 18时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时33分 ~ 19时18分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -84,13 +86,24 @@
           "time_info": "[11时33分 ~ 14时32分]"
         },
         {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
           "url": "https://flash.jin10.com/detail/20251114180518359800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -106,6 +119,31 @@
           "time_info": "13时21分"
         },
         {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时18分]"
+        },
+        {
+          "title": "小伙高铁上用AI眼镜玩游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时18分]"
+        },
+        {
           "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
           "url": "https://flash.jin10.com/detail/20251114115801982800",
           "source": "金十数据",
@@ -116,29 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时21分]"
-        },
-        {
-          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
-          "url": "https://www.cls.cn/detail/2200800",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时24分]"
-        },
-        {
-          "title": "小伙高铁上用AI眼镜玩游戏",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时24分]"
         },
         {
           "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
@@ -237,7 +252,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
