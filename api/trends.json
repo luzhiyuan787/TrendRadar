@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T16:28:27.318347+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-11-14T17:23:16.568881+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时33分 ~ 17时23分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时33分 ~ 17时23分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时33分 ~ 17时23分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -142,6 +142,28 @@
           "time_info": "[12时25分 ~ 13时21分]"
         },
         {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "小伙高铁上用AI眼镜玩游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
           "title": "微软CEO：祝OpenAI甲骨文好运",
           "url": "https://www.toutiao.com/trending/7572366525785443903/",
           "source": "今日头条",
@@ -170,7 +192,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
