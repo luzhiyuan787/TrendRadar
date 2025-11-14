@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T05:19:30.033656+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-11-15T06:23:27.355448+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -28,8 +28,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时23分]"
+        },
+        {
+          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
+          "url": "https://wallstreetcn.com/articles/3759380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时23分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时19分]"
-        },
-        {
-          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
-          "url": "https://wallstreetcn.com/articles/3759380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 05时19分]"
         },
         {
           "title": "泰达（Tether）拟与人工智能机器人初创企业Neura达成10亿欧元融资协议。",
