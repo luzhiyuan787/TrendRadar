@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T13:21:32.000700+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-11-14T14:32:02.839010+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -49,19 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
-        },
-        {
-          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
-          "url": "https://flash.jin10.com/detail/20251114130900870800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -72,8 +61,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -82,11 +71,23 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时33分 ~ 14时32分]"
+        },
+        {
+          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
+          "url": "https://flash.jin10.com/detail/20251114130900870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
@@ -147,15 +148,37 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
           "url": "https://flash.jin10.com/detail/20251114130147456800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
+          "url": "https://flash.jin10.com/detail/20251114132125584800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }
