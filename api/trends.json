@@ -1,308 +1,33 @@
 {
-  "generated_at": "2025-11-14T23:20:49.606645+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-11-15T00:27:49.229906+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 25,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时33分 ~ 22时21分]"
-        },
-        {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 16时28分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 14时32分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时33分 ~ 19时18分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            18,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时33分 ~ 19时18分]"
-        },
-        {
-          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
-          "url": "https://www.cls.cn/detail/2200800",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时31分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 14时32分]"
-        },
-        {
-          "title": "OpenAI战略布局解读",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
-          "url": "https://flash.jin10.com/detail/20251114180518359800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
-          "url": "https://flash.jin10.com/detail/20251114130900870800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2200994",
           "source": "财联社热门",
           "ranks": [
-            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时42分 ~ 23时20分]"
-        },
-        {
-          "title": "小伙高铁上用AI眼镜玩游戏",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时18分]"
-        },
-        {
-          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
-          "url": "https://wallstreetcn.com/livenews/3004921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时20分]"
-        },
-        {
-          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
-          "url": "https://flash.jin10.com/detail/20251114115801982800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时21分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
           "url": "https://www.toutiao.com/trending/7572001120726908978/",
           "source": "今日头条",
           "ranks": [
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 23时20分]"
-        },
-        {
-          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
-          "url": "https://www.cls.cn/detail/2200129",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 11时46分]"
-        },
-        {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114115348256800",
-          "source": "金十数据",
-          "ranks": [
-            6,
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时21分]"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
-          "url": "https://flash.jin10.com/detail/20251114134034298800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "Uzi用AI分析自己复出可能性",
-          "url": "https://search.bilibili.com/all?keyword=Uzi%E7%94%A8AI%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%A4%8D%E5%87%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
-          "url": "https://flash.jin10.com/detail/20251114130147456800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
-          "url": "https://flash.jin10.com/detail/20251114132125584800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "TCL华星正在构建AI五星架构",
-          "url": "https://wallstreetcn.com/livenews/3004785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "广汽集团与阿里云签署全栈AI战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3004840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "00时27分"
         }
       ]
     }
