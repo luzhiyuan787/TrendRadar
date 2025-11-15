@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:20:05.715057+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2025-11-15T19:15:51.762748+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时08分 ~ 19时15分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时28分 ~ 19时15分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -79,11 +79,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -104,22 +105,24 @@
           "ranks": [
             9,
             14,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "BLAST香港FURIA vs paiN",
