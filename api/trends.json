@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-15T17:19:33.007054+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-11-15T18:20:05.715057+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时08分 ~ 17时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 18时20分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -43,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 18时20分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -77,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时20分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -101,11 +103,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时20分]"
+        },
+        {
+          "title": "FURIA战胜paiN晋级BLAST决赛",
+          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时19分]"
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "BLAST香港FURIA vs paiN",
