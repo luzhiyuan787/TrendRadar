@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:29:02.946528+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-11-15T15:18:34.691901+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时29分 ~ 14时29分]"
+          "appearance_count": 14,
+          "time_info": "[02时29分 ~ 15时18分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -29,8 +29,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时18分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 15时18分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 14时29分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
