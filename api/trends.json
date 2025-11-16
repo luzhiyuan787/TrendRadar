@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T16:25:28.270422+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-16T17:20:20.451111+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -30,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时20分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -56,6 +56,19 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 17时20分]"
+        },
+        {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
           "url": "https://wallstreetcn.com/livenews/3005235",
           "source": "华尔街见闻-快讯",
@@ -69,18 +82,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时25分]"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
@@ -102,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -125,11 +127,12 @@
           "url": "https://wallstreetcn.com/livenews/3005279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -141,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
