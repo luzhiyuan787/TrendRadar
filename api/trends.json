@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T06:20:55.126051+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-11-18T07:20:05.032805+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -15,8 +15,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
+        },
+        {
+          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
+          "url": "https://www.zhihu.com/question/1972861967086666313",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "time_info": "[01时20分 ~ 07时20分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -28,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -44,20 +59,6 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 06时20分]"
-        },
-        {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
           "url": "https://flash.jin10.com/detail/20251118004426248800",
           "source": "金十数据",
@@ -70,13 +71,79 @@
           "time_info": "[01时20分 ~ 02时30分]"
         },
         {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
+          "url": "https://www.cls.cn/detail/2202782",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
+          "url": "https://flash.jin10.com/detail/20251118065706358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：日本理化学研究所的人工智能和量子系统将配备2140块英伟达Blackwell GPU。",
+          "url": "https://flash.jin10.com/detail/20251118064635634800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
+          "url": "https://wallstreetcn.com/livenews/3006092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
+          "url": "https://flash.jin10.com/detail/20251118064556616800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
           "url": "https://flash.jin10.com/detail/20251118051844797800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
