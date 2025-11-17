@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T20:43:00.408742+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-11-17T21:33:08.089923+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 20时43分]"
+          "appearance_count": 10,
+          "time_info": "[14时32分 ~ 21时33分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -92,6 +92,18 @@
           "time_info": "[00时22分 ~ 14时32分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 21时33分]"
+        },
+        {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
           "url": "https://www.cls.cn/detail/2201993",
           "source": "财联社热门",
@@ -103,6 +115,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时27分 ~ 16时30分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时33分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -147,18 +173,6 @@
           "time_info": "[04时22分 ~ 07时18分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 20时43分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -195,19 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时43分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -254,7 +255,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -298,7 +299,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
