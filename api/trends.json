@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T21:33:08.089923+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2025-11-17T22:21:35.682308+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时32分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时32分 ~ 22时21分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -100,8 +100,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 22时21分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时30分 ~ 21时33分]"
+          "time_info": "[17时26分 ~ 22时21分]"
         },
         {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
@@ -115,20 +129,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时27分 ~ 16时30分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时33分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "市场消息：戴尔(DELL.N)携手英伟达(NVDA.O)推动企业人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251117220138899800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
