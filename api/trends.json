@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T14:32:55.885406+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2025-11-17T15:21:45.433280+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时21分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时21分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -161,8 +161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时21分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -173,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时21分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -182,22 +182,35 @@
           "source": "微博",
           "ranks": [
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时21分]"
         },
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
           "url": "https://wallstreetcn.com/articles/3759516",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
+          "title": "硬刚ChatGPT的千问国内可下载",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A1%AC%E5%88%9AChatGPT%E7%9A%84%E5%8D%83%E9%97%AE%E5%9B%BD%E5%86%85%E5%8F%AF%E4%B8%8B%E8%BD%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D15%26cate%3D5001%26q%3D%2523%25E7%25A1%25AC%25E5%2588%259AChatGPT%25E7%259A%2584%25E5%258D%2583%25E9%2597%25AE%25E5%259B%25BD%25E5%2586%2585%25E5%258F%25AF%25E4%25B8%258B%25E8%25BD%25BD%2523%26dgr%3D0%26realpos%3D15%26stream_entry_id%3D31%26pos%3D15%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1763363938%26pre_seqid%3D176336393854502814277119&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "15时21分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
