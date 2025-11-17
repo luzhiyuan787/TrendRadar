@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:21:45.433280+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-11-17T16:30:58.289250+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 15时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 16时30分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -71,6 +71,19 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时22分 ~ 14时32分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时30分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -153,28 +166,17 @@
           "time_info": "12时27分"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时21分]"
-        },
-        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://www.toutiao.com/trending/7573506510103691273/",
           "source": "今日头条",
           "ranks": [
             21,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时30分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -198,8 +200,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时30分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
+          "url": "https://www.cls.cn/detail/2201963",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "硬刚ChatGPT的千问国内可下载",
@@ -208,7 +232,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -222,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "阿里国际站推出AI Mode",
