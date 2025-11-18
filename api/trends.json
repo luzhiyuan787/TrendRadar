@@ -1,7 +1,20 @@
 {
-  "generated_at": "2025-11-18T19:19:46.563407+08:00",
-  "total_titles_processed": 1709,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:46:44.979616+08:00",
+  "total_titles_processed": 1715,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
@@ -109,6 +122,20 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时46分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
           "url": "https://www.cls.cn/detail/2202608",
           "source": "财联社热门",
@@ -121,26 +148,13 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时19分]"
-        },
-        {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
           "url": "https://www.cls.cn/detail/2203967",
           "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -357,7 +371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -379,7 +393,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -390,7 +404,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
