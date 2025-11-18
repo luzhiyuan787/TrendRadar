@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T17:23:50.097927+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-11-18T18:24:56.781566+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 18时24分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -74,11 +74,12 @@
             14,
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时38分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -94,6 +95,20 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 18时24分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
           "url": "https://www.cls.cn/detail/2202608",
           "source": "财联社热门",
@@ -106,31 +121,6 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 17时23分]"
-        },
-        {
-          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
-          "url": "https://wallstreetcn.com/livenews/3006401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -140,8 +130,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时24分]"
+        },
+        {
+          "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
+          "url": "https://wallstreetcn.com/livenews/3006446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "摩根大通副董事长警告 AI估值可能迎来“修正”",
+          "url": "https://flash.jin10.com/detail/20251118180714384800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
@@ -154,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
+          "url": "https://wallstreetcn.com/livenews/3006401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时24分]"
         },
         {
           "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
@@ -233,7 +257,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -266,7 +290,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -280,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
+          "url": "https://wallstreetcn.com/articles/3759594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "英伟达(NVDA.O)：日本理化学研究所的人工智能和量子系统将配备2140块英伟达Blackwell GPU。",
@@ -315,6 +350,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
+          "url": "https://flash.jin10.com/detail/20251118175557810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
           "url": "https://flash.jin10.com/detail/20251118051844797800",
           "source": "金十数据",
@@ -335,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
