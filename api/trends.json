@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T21:33:17.226907+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2025-11-19T22:21:43.680763+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时38分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[09时38分 ~ 22时21分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -63,11 +63,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时12分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[11时12分 ~ 22时21分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -98,6 +99,20 @@
           "time_info": "[00时28分 ~ 11时13分]"
         },
         {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时21分]"
+        },
+        {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
           "source": "贴吧",
@@ -110,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时25分 ~ 22时21分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -163,20 +178,6 @@
           "time_info": "[09时38分 ~ 21时33分]"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 21时33分]"
-        },
-        {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
@@ -186,8 +187,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时38分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时38分 ~ 22时21分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -213,11 +214,12 @@
             13,
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[13时21分 ~ 22时21分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -229,11 +231,12 @@
             18,
             21,
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 22时21分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -300,8 +303,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
@@ -313,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时32分]"
+        },
+        {
+          "title": "AI音乐平台Suno按24.5亿美元估值融资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -417,6 +431,19 @@
           "time_info": "01时20分"
         },
         {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时21分]"
+        },
+        {
           "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
           "url": "https://wallstreetcn.com/livenews/3006939",
           "source": "华尔街见闻-快讯",
@@ -477,18 +504,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 14时31分]"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时33分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -745,6 +760,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "市场消息：Informatica深化与微软的合作，以可信数据加速企业生成式Ai的发展。",
+          "url": "https://flash.jin10.com/detail/20251119220939812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国计划批准向沙特AI公司Humain出售芯片。",
           "url": "https://wallstreetcn.com/livenews/3006708",
           "source": "华尔街见闻-快讯",
@@ -855,6 +881,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "市场消息：OpenText深化与谷歌的合作，加速人工智能创新、数据安全及主权云解决方案的推进。",
+          "url": "https://flash.jin10.com/detail/20251119220402180800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "快手科技：可灵AI三季度营收超3亿元",
           "url": "https://wallstreetcn.com/livenews/3007111",
           "source": "华尔街见闻-快讯",
@@ -883,7 +920,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -949,9 +986,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "Perplexity协议将以折扣价向政府机构提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251119215039509800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "夸克AI眼镜与支付宝合作再升级 新增骨传导拾音、准心等能力",
@@ -963,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美国总务管理局（GSA）和PERPLEXITY达成了AI协议。",
+          "url": "https://flash.jin10.com/detail/20251119215008470800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
