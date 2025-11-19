@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T18:24:37.814531+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-11-19T19:19:12.120276+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -48,11 +48,26 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时38分 ~ 19时19分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[09时38分 ~ 18时24分]"
+          "time_info": "[11时12分 ~ 19时19分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -83,6 +98,22 @@
           "time_info": "[00时28分 ~ 11时13分]"
         },
         {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 19时19分]"
+        },
+        {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -97,19 +128,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 09时39分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时24分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -136,27 +154,25 @@
             7,
             19,
             20,
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时38分 ~ 19时19分]"
+        },
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[09时38分 ~ 18时24分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 18时24分]"
+          "time_info": "[09时38分 ~ 19时19分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -171,18 +187,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[06时20分 ~ 18时24分]"
-        },
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -227,6 +231,21 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 19时19分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
           "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
@@ -238,18 +257,32 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            15,
-            13,
-            9
+            8,
+            9,
+            18,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时19分]"
+        },
+        {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
@@ -261,20 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时32分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时24分]"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -311,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "一个名为“人工智能基础设施联盟”的科技友好型组织将于周三晚在美国白宫附近举行招待会，正式启动。",
+          "url": "https://flash.jin10.com/detail/20251119191139085800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -419,18 +449,6 @@
           "time_info": "[12时26分 ~ 14时31分]"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时24分]"
-        },
-        {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
           "url": "https://flash.jin10.com/detail/20251119120532267800",
           "source": "金十数据",
@@ -465,6 +483,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-19）",
@@ -536,18 +567,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 09时39分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时24分]"
         },
         {
           "title": "20年来首现“过度投资”！美银基金经理调查：AI泡沫已成市场上最大“尾部投资”",
@@ -778,7 +797,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
