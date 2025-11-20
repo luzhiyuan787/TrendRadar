@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:21:44.284833+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2025-11-20T23:23:24.822462+08:00",
+  "total_titles_processed": 2083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 93,
+      "match_count": 99,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时11分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时11分 ~ 23时23分]"
         },
         {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
@@ -102,11 +102,12 @@
             13,
             25,
             24,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 23时23分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -122,11 +123,12 @@
             22,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 22时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 23时23分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -552,7 +554,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -640,7 +642,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -698,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)：在Gemini应用中推出一项功能，可验证图片是否由谷歌AI生成或编辑。",
+          "url": "https://flash.jin10.com/detail/20251120230904713800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "联想集团董事长杨元庆：我们并不认为存在人工智能泡沫",
@@ -827,7 +840,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -876,6 +889,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "AMD美股盘初一度涨约4%，沙特AI公司Humain宣布将与AMD、思科系统公司成立合资企业，计划于2030年前在沙特阿拉伯建设并运营高达1吉瓦（GW）的AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3008041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
           "url": "https://flash.jin10.com/detail/20251120064243930800",
           "source": "金十数据",
@@ -893,7 +917,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -920,6 +944,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "普京：要求俄总统办公厅和政府考虑设立一个领导部门，管理俄所有AI事务",
+          "url": "https://wallstreetcn.com/livenews/3008038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：我并未看到人工智能泡沫。",
           "url": "https://flash.jin10.com/detail/20251120062910896800",
           "source": "金十数据",
@@ -937,9 +972,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "普京：俄应在生成式人工智能领域掌握全套自主技术",
+          "url": "https://wallstreetcn.com/livenews/3008037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "英伟达：正与OpenAI致力于战略合作伙伴关系。 将通过云继续支持OpenAI。 正设法与OpenAI达成独家协议。 OpenAI投资将转化为回报。",
@@ -951,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美联储理事Barr：人工智能（AI）给美国GDP带来重大的增长。 AI还没有带来生产力增长的效应。 AI可能整体偏正面，短期内却存在错配问题。",
+          "url": "https://wallstreetcn.com/livenews/3008036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
@@ -1061,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美联储理事巴尔：人工智能总体上可能是积极的，但短期内会出现混乱。",
+          "url": "https://flash.jin10.com/detail/20251120225054709800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "印度塔塔咨询(TCS)获TPG资本10亿美元投资，用于人工智能数据中心业务。",
