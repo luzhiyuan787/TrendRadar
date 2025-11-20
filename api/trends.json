@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T13:21:28.055106+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-11-20T14:31:32.847305+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 14时31分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -55,11 +55,12 @@
             12,
             13,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 14时31分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -84,6 +85,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时19分]"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 14时31分]"
+        },
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 14时31分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
@@ -112,30 +139,17 @@
           "time_info": "[02时31分 ~ 07时19分]"
         },
         {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 13时21分]"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 14时31分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -215,19 +229,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 13时21分]"
-        },
-        {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
           "url": "https://flash.jin10.com/detail/20251120020650627800",
           "source": "金十数据",
@@ -237,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时31分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -326,17 +338,6 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时21分]"
-        },
-        {
           "title": "王自如深度体验谷歌AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
           "source": "bilibili 热搜",
@@ -394,6 +395,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时31分]"
         },
         {
           "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -541,17 +554,6 @@
           "time_info": "12时24分"
         },
         {
-          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
-          "url": "https://www.cls.cn/detail/2205868",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
           "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
@@ -585,6 +587,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
           "url": "https://flash.jin10.com/detail/20251120020145207800",
           "source": "金十数据",
@@ -594,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "野村：可灵AI需推新功能以应对激烈竞争",
+          "url": "https://flash.jin10.com/detail/20251120140519580800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "英伟达：Anthropic首次采用本公司的技术。 该公司所有的AI模型现在都采用英伟达技术。",
@@ -858,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
