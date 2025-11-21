@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:30:00.213744+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2025-11-21T22:21:01.227509+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[16时29分 ~ 22时21分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时11分 ~ 21时30分]"
+          "appearance_count": 18,
+          "time_info": "[11时11分 ~ 22时21分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -127,15 +127,56 @@
           "time_info": "[09时29分 ~ 15时21分]"
         },
         {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 22时21分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 22时21分]"
+        },
+        {
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时21分]"
+        },
+        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时21分]"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
@@ -147,19 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 21时30分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -195,17 +223,16 @@
           "time_info": "07时19分"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            11,
-            9
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时30分]"
+          "time_info": "[20时41分 ~ 22时21分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -305,28 +332,6 @@
           "time_info": "[01时17分 ~ 02时31分]"
         },
         {
-          "title": "我AI的易梦玲胡彦斌",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时30分]"
-        },
-        {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
-        },
-        {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
           "url": "https://wallstreetcn.com/livenews/3008411",
           "source": "华尔街见闻-快讯",
@@ -337,6 +342,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时33分]"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时21分]"
         },
         {
           "title": "OpenAI正式推出ChatGPT群聊功能",
@@ -430,15 +447,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "22时21分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -529,6 +546,17 @@
           "time_info": "18时22分"
         },
         {
+          "title": "美联储副主席杰斐逊：AI企业的上涨潮不太可能重演当年互联网泡沫的情景",
+          "url": "https://flash.jin10.com/detail/20251121215455386800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -538,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯应届大学毕业生正面临“完美风暴”——招聘疲软。 招聘疲软是周期性问题，而非结构性问题。 目前没有看到大量裁员。 雇主在招聘新员工方面非常谨慎。 人工智能将会改变我们的就业类型。",
+          "url": "https://wallstreetcn.com/livenews/3008742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
@@ -612,9 +651,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251121214555783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美联储理事库克：生成式人工智能在交易中的应用引发担忧，但也可能带来益处，必须谨慎关注。",
@@ -626,6 +676,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：杠杆的使用更加有限可能会降低任何人工智能情绪转变传递至经济的程度，但正在密切关注人工智能公司的债务发行情况。",
+          "url": "https://flash.jin10.com/detail/20251121214537456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：与互联网泡沫时期不同，与人工智能相关的股票上涨主要得益于人工智能公司确实拥有实际收益。",
+          "url": "https://flash.jin10.com/detail/20251121214527130800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
