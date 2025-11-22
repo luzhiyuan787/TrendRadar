@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T13:19:44.723561+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-11-22T14:29:02.655290+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时29分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -30,20 +30,16 @@
           "time_info": "[00时26分 ~ 12时24分]"
         },
         {
-          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
-          "url": "https://www.cls.cn/detail/2207779",
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8,
-            12
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 14时29分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -57,6 +53,23 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            8,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时29分]"
+        },
+        {
           "title": "胡彦斌 不是AI的",
           "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -68,18 +81,6 @@
           "time_info": "[00时26分 ~ 09时26分]"
         },
         {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时19分]"
-        },
-        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
@@ -89,6 +90,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 14时29分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -103,16 +116,17 @@
           "time_info": "[00时26分 ~ 04时24分]"
         },
         {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 14时29分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -139,6 +153,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时20分 ~ 12时24分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 14时29分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -178,19 +204,6 @@
           "time_info": "[01时18分 ~ 02时28分]"
         },
         {
-          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
-          "url": "https://wallstreetcn.com/articles/3759852",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 13时19分]"
-        },
-        {
           "title": "胡彦斌回应亲吻照：不是AI",
           "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
           "source": "百度热搜",
@@ -200,18 +213,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时26分 ~ 13时19分]"
-        },
-        {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时19分]"
         },
         {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
@@ -225,6 +226,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 12时24分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
@@ -354,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "谷歌推出BigQuery AI",
