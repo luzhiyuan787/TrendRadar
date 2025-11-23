@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T22:18:11.656663+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2025-11-23T23:19:24.958204+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,21 @@
           "time_info": "[11时28分 ~ 19时16分]"
         },
         {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 23时19分]"
+        },
+        {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
           "source": "澎湃新闻",
@@ -62,21 +77,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时23分 ~ 19时16分]"
-        },
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -152,8 +152,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 23时19分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
@@ -170,20 +184,6 @@
           "time_info": "[16时25分 ~ 19时16分]"
         },
         {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时18分]"
-        },
-        {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
           "url": "https://wallstreetcn.com/articles/3759935",
           "source": "华尔街见闻",
@@ -194,6 +194,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时33分 ~ 15时19分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 23时19分]"
         },
         {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
@@ -223,18 +235,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "G20南非峰会领导人宣言：人工智能、数据治理和创新促进可持续发展",
