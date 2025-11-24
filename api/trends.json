@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T20:43:42.184872+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-11-24T21:35:02.211956+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时23分 ~ 13时22分]"
         },
         {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 21时35分]"
+        },
+        {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
           "url": "https://www.cls.cn/detail/2208386",
           "source": "财联社热门",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时45分 ~ 15时21分]"
-        },
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 20时43分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -91,6 +91,20 @@
           "time_info": "[12时34分 ~ 20时43分]"
         },
         {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 21时35分]"
+        },
+        {
           "title": "需要AI给答案",
           "url": "https://wallstreetcn.com/articles/3759957",
           "source": "华尔街见闻",
@@ -134,11 +148,38 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 20时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时23分 ~ 21时35分]"
+        },
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时35分]"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 21时35分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -154,44 +195,18 @@
           "time_info": "[00时23分 ~ 09时45分]"
         },
         {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
           "ranks": [
-            13,
-            9,
+            30,
+            5,
             6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 20时43分]"
-        },
-        {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时43分]"
-        },
-        {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 21时35分]"
         },
         {
           "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
@@ -203,19 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        },
-        {
-          "title": "两美刀逼疯AI!怒要报官告公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时43分]"
         },
         {
           "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
@@ -244,6 +246,18 @@
           "time_info": "[04时23分 ~ 07时19分]"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时35分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
           "url": "https://flash.jin10.com/detail/20251124115246431800",
           "source": "金十数据",
@@ -266,18 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
-          "url": "https://www.cls.cn/detail/2209008",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时43分]"
         },
         {
           "title": "上海市网信办开展“AI滥用”专项执法工作",
