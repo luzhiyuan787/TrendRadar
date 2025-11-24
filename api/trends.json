@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-25T04:24:40.124541+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2025-11-25T05:20:48.899024+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -37,19 +38,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -59,11 +61,12 @@
             18,
             16,
             13,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -73,8 +76,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -87,8 +90,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 05时20分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -108,9 +111,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
+          "url": "https://flash.jin10.com/detail/20251125050538543800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -217,7 +231,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
