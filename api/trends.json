@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T19:19:41.447232+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-11-25T20:44:06.894803+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -47,33 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时16分 ~ 19时19分]"
-        },
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时16分 ~ 20时44分]"
         },
         {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
@@ -87,8 +62,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 20时44分]"
+        },
+        {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 20时44分]"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -117,11 +117,12 @@
             21,
             24,
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 19时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 20时44分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -165,6 +166,21 @@
           "time_info": "[09时40分 ~ 17时25分]"
         },
         {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时44分]"
+        },
+        {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
           "url": "https://www.zhihu.com/question/1962093650352771598",
           "source": "知乎",
@@ -180,18 +196,54 @@
           "time_info": "[01时20分 ~ 06时20分]"
         },
         {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时44分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
           "ranks": [
             10,
-            9,
-            8,
-            7
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时44分]"
+        },
+        {
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
+          "title": "硬科技迎资金活水，首批7只双创人工智能ETF周五齐发",
+          "url": "https://www.cls.cn/detail/2210084",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时19分]"
+          "time_info": "[17时24分 ~ 20时44分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -338,42 +390,6 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
-          "title": "硬科技迎资金活水，首批7只双创人工智能ETF周五齐发",
-          "url": "https://www.cls.cn/detail/2210084",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时19分]"
-        },
-        {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时19分]"
-        },
-        {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时19分]"
-        },
-        {
           "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
           "url": "https://flash.jin10.com/detail/20251125050538543800",
           "source": "金十数据",
@@ -384,6 +400,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时44分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -411,6 +451,18 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+          "url": "https://www.zhihu.com/question/1976610994328445009",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时44分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
           "url": "https://flash.jin10.com/detail/20251125055922632800",
           "source": "金十数据",
@@ -435,6 +487,18 @@
           "time_info": "[14时33分 ~ 15时21分]"
         },
         {
+          "title": "阿里巴巴集团首席财务官徐宏：过去4个季度，我们在AI+云基础设施的资本开支约1200亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3010183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时44分]"
+        },
+        {
           "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
           "url": "https://www.cls.cn/detail/2209345",
           "source": "财联社热门",
@@ -445,17 +509,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时16分]"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时19分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -480,6 +533,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时20分]"
+        },
+        {
+          "title": "谷歌A市值逼近4万亿美元 人工智能业务势头强劲",
+          "url": "https://wallstreetcn.com/livenews/3010164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时44分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-25）",
@@ -513,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "阿里巴巴集团首席财务官徐宏：过去4个季度，我们在AI+云基础设施的资本开支约1200亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3010183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "创业板指涨3%，深成指涨超2%，沪指涨超1%。算力硬件、AI应用、贵金属、量子科技等方向领涨。",
@@ -669,28 +723,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "谷歌A市值逼近4万亿美元 人工智能业务势头强劲",
-          "url": "https://wallstreetcn.com/livenews/3010164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
-          "url": "https://www.zhihu.com/question/1976610994328445009",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
           "title": "市场消息：谷歌(GOOG.O)与风险投资基金Accel合作，共同孵化印度人工智能初创企业。谷歌基金表示，下一波人工智能创新很可能来自印度。",
           "url": "https://flash.jin10.com/detail/20251125083310960800",
           "source": "金十数据",
@@ -777,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "魏嬿婉持枪不是AI生成的",
+          "url": "https://s.weibo.com/weibo?q=%E9%AD%8F%E5%AC%BF%E5%A9%89%E6%8C%81%E6%9E%AA%E4%B8%8D%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     }
