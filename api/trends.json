@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T14:33:42.072738+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-11-25T15:21:20.907928+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -53,11 +53,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时21分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -98,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 15时21分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -124,22 +125,37 @@
             12,
             11,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时21分]"
         },
         {
-          "title": "Meta Platforms(META.O)：OAKLEY Meta HSTN AI眼镜将于12月1日起在印度上市。",
-          "url": "https://flash.jin10.com/detail/20251125142958930800",
-          "source": "金十数据",
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 15时21分]"
+        },
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 15时21分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
@@ -164,18 +180,6 @@
           "time_info": "09时40分"
         },
         {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 14时33分]"
-        },
-        {
           "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
           "url": "https://flash.jin10.com/detail/20251125040327542800",
           "source": "金十数据",
@@ -185,19 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 14时33分]"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -239,6 +230,18 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
+          "title": "Meta Platforms(META.O)：OAKLEY Meta HSTN AI眼镜将于12月1日起在印度上市。",
+          "url": "https://flash.jin10.com/detail/20251125142958930800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时21分]"
+        },
+        {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
           "url": "https://flash.jin10.com/detail/20251125000337819800",
           "source": "金十数据",
@@ -275,6 +278,19 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时21分]"
+        },
+        {
           "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
           "url": "https://flash.jin10.com/detail/20251125050538543800",
           "source": "金十数据",
@@ -287,17 +303,16 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
           "ranks": [
-            10,
             8,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时33分]"
+          "time_info": "[13时22分 ~ 15时21分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -325,18 +340,6 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
           "url": "https://flash.jin10.com/detail/20251125055922632800",
           "source": "金十数据",
@@ -347,6 +350,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时21分]"
         },
         {
           "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
@@ -385,17 +400,6 @@
           "time_info": "[00时24分 ~ 01时20分]"
         },
         {
-          "title": "日本将把人工智能列入6大战略技术领域",
-          "url": "https://flash.jin10.com/detail/20251125141659367800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-25）",
           "url": "https://flash.jin10.com/detail/20251125115711078800",
           "source": "金十数据",
@@ -416,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美联储卡什卡利：人工智能确实有实际应用场景，但加密货币领域却没有。",
@@ -517,6 +532,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "Meta Platforms(META.O)：OAKLEY Meta HSTN AI眼镜将于印度上市，起售价为41,800印度卢比（约3328元人民币）。",
+          "url": "https://flash.jin10.com/detail/20251125143407373800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
           "url": "https://flash.jin10.com/detail/20251125003123968800",
           "source": "金十数据",
@@ -526,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "新加坡国家AI计划放弃Meta模型 转向阿里千问",
+          "url": "https://wallstreetcn.com/livenews/3010024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "亚马逊投资最高500亿美元 美国政府机构拓展AI和超级计算基础设施",
