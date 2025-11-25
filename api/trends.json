@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T07:19:50.180198+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-25T09:40:21.834115+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -35,11 +35,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时40分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -64,11 +65,12 @@
             13,
             22,
             25,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时40分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -78,8 +80,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时40分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -106,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251125091404623800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
@@ -254,6 +267,17 @@
           "time_info": "[00时24分 ~ 01时20分]"
         },
         {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美国白宫披露关于科学超算研究领域的AI命令。",
           "url": "https://wallstreetcn.com/livenews/3009778",
           "source": "华尔街见闻-快讯",
@@ -265,13 +289,68 @@
           "time_info": "06时20分"
         },
         {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "美联储卡什卡利：人工智能确实有实际应用场景，但加密货币领域却没有。",
+          "url": "https://flash.jin10.com/detail/20251125084931604800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
+          "url": "https://www.cls.cn/detail/2209345",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
           "url": "https://flash.jin10.com/detail/20251125061520606800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -298,6 +377,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "风投基金Accel宣布其Atoms AI孵化计划将于2026年遴选约5至10家印度AI初创公司。谷歌AI未来基金与Accel将向每家初创企业联合投资最高200万美元。",
+          "url": "https://flash.jin10.com/detail/20251125083542227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
           "url": "https://flash.jin10.com/detail/20251125003123968800",
           "source": "金十数据",
@@ -320,15 +410,48 @@
           "time_info": "01时20分"
         },
         {
+          "title": "市场消息：谷歌(GOOG.O)与风险投资基金Accel合作，共同孵化印度人工智能初创企业。谷歌基金表示，下一波人工智能创新很可能来自印度。",
+          "url": "https://flash.jin10.com/detail/20251125083310960800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari：人们因通胀而感到经济困难。 AI确实有真实应用场景，但加密货币没有。",
+          "url": "https://wallstreetcn.com/livenews/3009841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "特朗普签署行政令，启动AI“创世纪计划”",
           "url": "https://wallstreetcn.com/livenews/3009778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "谷歌与Accel 合作，通过 AI Futures Fund 为印度人工智能初创企业提供资金支持，每家公司最高可获得 200 万美元的资助，目标是扶持5至10家企业。此举旨在加快印度在全球人工智能创新领域的作用。（道琼斯）",
+          "url": "https://wallstreetcn.com/livenews/3009837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "欧洲央行行长拉加德警告：欧盟在AI领域错失良机，未来面临风险",
