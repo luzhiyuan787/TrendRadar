@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T14:34:03.370106+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-11-27T15:21:56.424946+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -151,11 +151,12 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -207,17 +208,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3011311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-27）",
           "url": "https://flash.jin10.com/detail/20251127115301613800",
           "source": "金十数据",
@@ -228,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时21分]"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -249,8 +251,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 15时21分]"
         },
         {
           "title": "多家手机厂商取消Air机型",
@@ -258,11 +260,24 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时21分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时34分]"
+          "time_info": "[14时33分 ~ 15时21分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -289,17 +304,6 @@
           "time_info": "[01时20分 ~ 02时27分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
           "title": "AI硬件为何大涨",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%A1%AC%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -320,6 +324,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
+          "url": "https://wallstreetcn.com/livenews/3011353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
+          "url": "https://wallstreetcn.com/livenews/3011350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
