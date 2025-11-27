@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T22:21:41.488606+08:00",
-  "total_titles_processed": 1926,
+  "generated_at": "2025-11-27T23:21:50.639661+08:00",
+  "total_titles_processed": 1995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -71,6 +71,21 @@
           "time_info": "[14时33分 ~ 20时44分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时21分]"
+        },
+        {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
           "url": "https://www.zhihu.com/question/1977081679454630577",
           "source": "知乎",
@@ -97,20 +112,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时21分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -143,11 +144,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 23时21分]"
         },
         {
           "title": "人类正在被AI反向训练吗",
@@ -211,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时21分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
@@ -225,8 +227,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时21分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -267,6 +269,17 @@
           "time_info": "[11时12分 ~ 14时34分]"
         },
         {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时21分]"
+        },
+        {
           "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
           "url": "https://www.cls.cn/detail/2212151",
           "source": "财联社热门",
@@ -292,17 +305,6 @@
           "time_info": "[13时21分 ~ 16时30分]"
         },
         {
-          "title": "AI还原香港大埔火灾",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
           "url": "https://flash.jin10.com/detail/20251127130943837800",
           "source": "金十数据",
@@ -314,15 +316,28 @@
           "time_info": "13时21分"
         },
         {
-          "title": "“珠峰安装电梯”图文视频系AI生成",
-          "url": "https://www.toutiao.com/trending/7577362730961767974/",
-          "source": "今日头条",
+          "title": "AI还原香港大埔火灾",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时21分]"
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时21分]"
         },
         {
           "title": "报道：中国开源AI模型下载量占比首超美国",
@@ -372,18 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
-        },
-        {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时21分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -467,6 +470,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
+          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
+          "url": "https://wallstreetcn.com/articles/3760242",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
