@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T01:18:45.495044+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-29T02:29:47.760912+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2214152",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时29分]"
         }
       ]
     }
