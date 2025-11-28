@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:42:30.588976+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-11-28T21:31:55.653772+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
@@ -106,8 +106,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 21时31分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -132,6 +132,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 09时29分]"
+        },
+        {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时31分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
@@ -161,19 +174,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 11时12分]"
-        },
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时42分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
