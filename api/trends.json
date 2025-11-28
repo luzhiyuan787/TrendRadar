@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:31:55.653772+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2025-11-28T22:21:54.280873+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -78,6 +78,19 @@
           "time_info": "[00时26分 ~ 11时12分]"
         },
         {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
           "url": "https://wallstreetcn.com/articles/3760242",
           "source": "华尔街见闻",
@@ -132,19 +145,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 09时29分]"
-        },
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时31分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
@@ -307,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时22分]"
+        },
+        {
+          "title": "北京拟将大规模AI算力搬上太空",
+          "url": "https://wallstreetcn.com/articles/3760284",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国专利商标局规定AI不能被视为“发明人”",
