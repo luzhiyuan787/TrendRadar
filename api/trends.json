@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:29:05.293713+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-11-28T11:12:28.751259+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -44,11 +44,12 @@
             3,
             11,
             8,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时12分]"
         },
         {
           "title": "AI还原香港大埔火灾",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时12分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -69,11 +70,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时12分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -113,6 +115,22 @@
           "time_info": "[00时26分 ~ 06时20分]"
         },
         {
+          "title": "我用AI开了家一人公司",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            26,
+            27,
+            28,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 11时12分]"
+        },
+        {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
           "url": "https://wallstreetcn.com/articles/3760202",
           "source": "华尔街见闻",
@@ -124,21 +142,6 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
-          "title": "我用AI开了家一人公司",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            26,
-            27,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 07时19分]"
-        },
-        {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
           "url": "https://www.cls.cn/detail/2213363",
           "source": "财联社热门",
@@ -147,8 +150,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 11时12分]"
+        },
+        {
+          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
+          "url": "https://wallstreetcn.com/articles/3760277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 11时12分]"
         },
         {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
@@ -177,18 +193,6 @@
           "time_info": "[00时26分 ~ 02时29分]"
         },
         {
-          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
-          "url": "https://wallstreetcn.com/articles/3760277",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时29分]"
-        },
-        {
           "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
           "url": "https://flash.jin10.com/detail/20251128005350230800",
           "source": "金十数据",
@@ -199,6 +203,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "《北京市促进“人工智能+视听”产业高质量发展行动方案（2025—2029年）》发布",
+          "url": "https://wallstreetcn.com/livenews/3011794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
+          "url": "https://flash.jin10.com/detail/20251128095923576800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "王自如称选择用AI创业还债",
