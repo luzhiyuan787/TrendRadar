@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T07:19:30.827767+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-29T09:29:05.300428+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时29分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -31,6 +31,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时29分]"
+        },
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
+          "url": "https://wallstreetcn.com/articles/3760347",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
         }
       ]
     }
