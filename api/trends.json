@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:20:54.911014+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-11-29T14:30:57.013122+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 14时30分]"
+        },
+        {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时30分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -45,17 +57,6 @@
           "time_info": "[00时27分 ~ 02时29分]"
         },
         {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 13时20分]"
-        },
-        {
           "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
           "url": "https://wallstreetcn.com/articles/3760323",
           "source": "华尔街见闻",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 14时30分]"
         },
         {
           "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
@@ -74,11 +75,12 @@
           "ranks": [
             7,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时30分]"
         }
       ]
     }
