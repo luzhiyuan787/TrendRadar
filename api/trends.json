@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:39:24.841026+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-11-30T21:27:48.608863+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 20时39分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 21时27分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -52,8 +52,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时28分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[11时28分 ~ 21时27分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时27分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -70,19 +83,6 @@
           "time_info": "[00时24分 ~ 17时20分]"
         },
         {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时39分]"
-        },
-        {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
           "source": "澎湃新闻",
@@ -94,6 +94,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 06时19分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时27分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -108,19 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时39分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -141,9 +141,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时27分]"
         }
       ]
     }
