@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:25:45.060721+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2025-12-01T19:19:57.732448+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -30,22 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 18时25分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 12时52分]"
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 19时19分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -61,8 +47,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时51分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 19时19分]"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 12时52分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -165,11 +165,47 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时19分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
+          "url": "https://www.cls.cn/detail/2215927",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时19分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时19分]"
+        },
+        {
+          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
+          "url": "https://www.cls.cn/detail/2215716",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时19分]"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -181,39 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 12时52分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
-          "url": "https://www.cls.cn/detail/2215716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
