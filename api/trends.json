@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T13:29:37.034465+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-12-01T14:35:28.976093+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时35分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -78,8 +78,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时35分]"
+        },
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时35分]"
         },
         {
           "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
@@ -93,18 +106,6 @@
           "time_info": "12时52分"
         },
         {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时29分]"
-        },
-        {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
           "url": "https://www.cls.cn/detail/2215245",
           "source": "财联社热门",
@@ -112,8 +113,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 14时35分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -121,11 +122,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时35分]"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -167,7 +169,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -178,7 +180,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
