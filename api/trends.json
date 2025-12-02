@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:21:11.218115+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-12-02T20:45:39.559272+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 20时45分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 20时45分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 20时45分]"
         },
         {
           "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
@@ -86,6 +86,19 @@
           "time_info": "[13时21分 ~ 19时21分]"
         },
         {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 20时45分]"
+        },
+        {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
           "url": "https://www.cls.cn/detail/2216291",
           "source": "财联社热门",
@@ -97,18 +110,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 07时24分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 19时21分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -137,6 +138,23 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16,
+            14,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 20时45分]"
+        },
+        {
           "title": "郑恺上戏合影 AI生成",
           "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -149,6 +167,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时30分 ~ 11时19分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时45分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -166,22 +197,6 @@
           "time_info": "[11时19分 ~ 17时27分]"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 19时21分]"
-        },
-        {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
@@ -191,19 +206,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时19分 ~ 17时27分]"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -424,6 +426,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "苹果任命AI业务副总裁",
           "url": "https://flash.jin10.com/detail/20251202061819637800",
           "source": "金十数据",
@@ -433,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -452,7 +476,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -474,7 +498,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
