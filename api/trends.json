@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:20:32.059796+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-03T20:45:57.157001+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时41分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时41分 ~ 20时45分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 20时45分]"
         },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
@@ -188,7 +188,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -224,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "贝莱德称流入亚洲的ETF资金主要流向韩国 人工智能是主因",
+          "url": "https://wallstreetcn.com/livenews/3014450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -451,7 +462,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -473,7 +484,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -484,7 +495,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -506,7 +517,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -665,6 +676,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "迈威尔科技(MRVL.O)将以32.5亿美元收购Celestial AI。",
           "url": "https://flash.jin10.com/detail/20251203051305434800",
           "source": "金十数据",
@@ -674,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     }
