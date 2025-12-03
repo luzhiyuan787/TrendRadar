@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:26:38.317818+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2025-12-03T18:26:10.911948+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 18时26分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -70,6 +70,20 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时30分 ~ 14时34分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 18时26分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -144,20 +158,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时18分 ~ 17时26分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时26分]"
         },
         {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
