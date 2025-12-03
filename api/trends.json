@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T21:37:28.934109+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2025-12-03T22:23:36.581315+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时41分 ~ 21时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时41分 ~ 22时23分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -224,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3014505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -600,6 +611,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "诺比侃人工智能科技（成都）股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3014487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3013807",
           "source": "华尔街见闻-快讯",
@@ -644,6 +666,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "据The Information：微软下调人工智能软件销售指标，因客户对新产品持抵触态度；微软还在为Windows电脑升级AI智能体功能。",
+          "url": "https://flash.jin10.com/detail/20251203220706492800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "Upwind将与英伟达锁定下一代AI基础设施。",
           "url": "https://wallstreetcn.com/livenews/3013804",
           "source": "华尔街见闻-快讯",
@@ -675,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "据The Information：微软下调人工智能软件销售配额。",
+          "url": "https://flash.jin10.com/detail/20251203220324777800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
