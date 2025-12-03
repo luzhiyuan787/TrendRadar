@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:23:36.581315+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2025-12-03T23:25:43.510536+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时41分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[09时41分 ~ 23时25分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -226,17 +226,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3014505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
           "url": "https://wallstreetcn.com/livenews/3013847",
           "source": "华尔街见闻-快讯",
@@ -335,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时45分 ~ 21时37分]"
+        },
+        {
+          "title": "The Information报道称，微软因需求问题而下调AI软件销售配额。 该公司股价盘前跌1.4%。 纳斯达克100股指期货跌0.5%，标普股指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3014505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时25分]"
         },
         {
           "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
@@ -567,6 +568,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美国商务部长卢特尼克：欧洲经济体通过监管规则打击人工智能发展。",
+          "url": "https://flash.jin10.com/detail/20251203231028340800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
           "url": "https://flash.jin10.com/detail/20251202234346507800",
           "source": "金十数据",
@@ -617,7 +629,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -672,7 +684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -716,7 +728,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
