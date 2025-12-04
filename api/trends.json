@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:23:12.874187+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-12-04T23:26:04.264660+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             14,
             11,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时33分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[14时33分 ~ 23时26分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -167,6 +168,18 @@
           "time_info": "[20时46分 ~ 21时37分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 23时26分]"
+        },
+        {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
           "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6AI%E5%90%88%E6%88%90%E2%80%9C%E6%AD%BB%E8%9F%B9%E2%80%9D%E9%AA%97%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%98%E7%95%998%E6%97%A5",
           "source": "百度热搜",
@@ -237,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
-        },
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
