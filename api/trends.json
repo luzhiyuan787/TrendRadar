@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T12:31:54.434677+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-12-04T13:21:34.790998+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -32,6 +32,39 @@
           "time_info": "[03时19分 ~ 11时20分]"
         },
         {
+          "title": "欧盟对Meta启动反垄断调查 WhatsApp集成AI功能成焦点",
+          "url": "https://flash.jin10.com/detail/20251204130932216800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "欧盟将就WhatsApp中的人工智能使用情况对Meta展开调查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3014910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "据英国金融时报：欧盟正计划针对Meta Platforms(META.O)在WhatsApp内部推出人工智能功能展开新的反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251204130712785800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
           "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
@@ -42,6 +75,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时21分]"
         },
         {
           "title": "嘉信理财CEO：客户在询问我们如何在市场上涨后保护他们的财富。我们的投资者在人工智能领域赚了不少钱。",
@@ -57,6 +102,20 @@
           "time_info": "[01时23分 ~ 03时19分]"
         },
         {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时21分]"
+        },
+        {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
           "url": "https://flash.jin10.com/detail/20251204005558678800",
           "source": "金十数据",
@@ -68,19 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时19分]"
-        },
-        {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时31分]"
         },
         {
           "title": "维基百科创始人Wale证实正在与科技巨头洽谈其他人工智能合作事宜。",
@@ -165,15 +211,16 @@
           "time_info": "[01时23分 ~ 02时34分]"
         },
         {
-          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
-          "url": "https://www.cls.cn/detail/2219319",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204114954413800",
+          "source": "金十数据",
           "ranks": [
-            7
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时21分]"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -218,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-04）",
-          "url": "https://flash.jin10.com/detail/20251204114954413800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         },
         {
           "title": "卢伟冰：小米在AI大模型和应用方面的进展远超预期",
@@ -284,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "买家AI合成“死蟹”骗退款被拘留8日",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%AE%B6AI%E5%90%88%E6%88%90%E2%80%9C%E6%AD%BB%E8%9F%B9%E2%80%9D%E9%AA%97%E9%80%80%E6%AC%BE%E8%A2%AB%E6%8B%98%E7%95%998%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
