@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T21:37:53.066825+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2025-12-04T22:23:12.874187+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时33分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[14时33分 ~ 22时23分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -239,6 +239,17 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -295,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 18时26分]"
+        },
+        {
+          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2220115",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
@@ -438,7 +460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
