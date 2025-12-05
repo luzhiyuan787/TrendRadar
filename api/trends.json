@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T18:23:26.695295+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2025-12-05T19:20:44.610137+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 19时20分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -55,11 +55,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 19时20分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -137,6 +138,18 @@
           "time_info": "[03时20分 ~ 05时21分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
           "url": "https://www.cls.cn/detail/2220406",
           "source": "财联社热门",
@@ -147,18 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 17时23分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -225,7 +226,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -258,7 +259,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -291,7 +292,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
