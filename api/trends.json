@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-05T15:22:12.680668+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-05T16:29:45.113807+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "任正非最新发声！涉及人工智能，信息量很大",
+          "url": "https://www.cls.cn/detail/2220393",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 16时29分]"
+        },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
           "url": "https://www.cls.cn/detail/2220060",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时42分]"
-        },
-        {
-          "title": "任正非最新发声！涉及人工智能，信息量很大",
-          "url": "https://www.cls.cn/detail/2220393",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时22分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -55,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 16时29分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -67,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 16时29分]"
         },
         {
           "title": "美国SEC主席驳斥要求企业加强人工智能报告的提议",
@@ -134,6 +135,18 @@
           "time_info": "[03时20分 ~ 05时21分]"
         },
         {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时29分]"
+        },
+        {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
           "url": "https://wallstreetcn.com/livenews/3015608",
           "source": "华尔街见闻-快讯",
@@ -144,17 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时34分]"
-        },
-        {
-          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
-          "url": "https://www.cls.cn/detail/2220406",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -214,6 +216,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -225,6 +238,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "市场消息：LG电子与微软寻求在人工智能数据中心领域开展合作。",
           "url": "https://flash.jin10.com/detail/20251205104828850800",
           "source": "金十数据",
@@ -234,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "AI服务器需求“狂飙” 鸿海营收劲增26%",
+          "url": "https://flash.jin10.com/detail/20251205155316808800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
@@ -267,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
+          "url": "https://wallstreetcn.com/livenews/3015716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
