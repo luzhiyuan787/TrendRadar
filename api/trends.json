@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T22:22:30.166440+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2025-12-05T23:23:59.664630+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -83,11 +83,26 @@
             13,
             10,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 23时23分]"
+        },
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时23分]"
         },
         {
           "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
@@ -186,19 +201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时22分]"
         },
         {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
@@ -304,6 +306,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
+          "url": "https://wallstreetcn.com/articles/3760772",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "美国驻欧盟大使：欧盟人工智能法规造成了合作困难；美国副总统万斯非常关注欧盟针对美国公司的法律行动。",
           "url": "https://flash.jin10.com/detail/20251205174011808800",
           "source": "金十数据",
@@ -365,7 +378,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
