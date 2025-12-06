@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:18:04.608598+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-07T02:28:49.701148+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -71,8 +75,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -82,8 +86,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
         }
       ]
     }
