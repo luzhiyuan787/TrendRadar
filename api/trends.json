@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:30:39.272530+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2025-12-06T15:19:30.511720+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时28分 ~ 12时23分]"
         },
         {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 15时19分]"
+        },
+        {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
           "source": "澎湃新闻",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 11时11分]"
-        },
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 14时30分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -66,11 +66,24 @@
             2,
             8,
             14,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时19分]"
+        },
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -85,16 +98,17 @@
           "time_info": "[07时20分 ~ 09时28分]"
         },
         {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
           "ranks": [
             8,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时23分 ~ 14时30分]"
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -107,18 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时29分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时30分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
