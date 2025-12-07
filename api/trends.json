@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:20:01.077110+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-12-07T19:16:47.874474+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 18时20分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 19时16分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -51,11 +51,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 19时16分]"
         },
         {
           "title": "豆包AI手机深度体验",
