@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T15:20:07.347440+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-12-07T16:26:20.993918+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时26分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -92,22 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时20分]"
-        },
-        {
-          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
-          "url": "https://flash.jin10.com/detail/20251207115626169800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时26分]"
         },
         {
           "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
@@ -118,11 +104,27 @@
             11,
             17,
             18,
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时26分]"
+        },
+        {
+          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
+          "url": "https://flash.jin10.com/detail/20251207115626169800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            16,
+            21,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时28分 ~ 15时20分]"
+          "time_info": "[12时33分 ~ 16时26分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "用AI还原无限流小说名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%BF%98%E5%8E%9F%E6%97%A0%E9%99%90%E6%B5%81%E5%B0%8F%E8%AF%B4%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
