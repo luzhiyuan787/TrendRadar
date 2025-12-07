@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:26:20.993918+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-12-07T17:20:31.858348+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 17时20分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -73,6 +73,18 @@
           "time_info": "[00时25分 ~ 09时50分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时20分]"
+        },
+        {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
           "url": "https://flash.jin10.com/detail/20251206203209145800",
           "source": "金十数据",
@@ -84,18 +96,6 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 16时26分]"
-        },
-        {
           "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
           "url": "https://wallstreetcn.com/livenews/3016337",
           "source": "华尔街见闻-快讯",
@@ -105,11 +105,12 @@
             17,
             18,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 17时20分]"
         },
         {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
@@ -145,7 +146,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
