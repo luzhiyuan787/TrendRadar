@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T20:38:49.967010+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-07T21:26:39.945337+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时24分 ~ 20时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时24分 ~ 21时26分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
