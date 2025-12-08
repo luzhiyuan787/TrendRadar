@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T14:36:43.885275+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-08T15:25:15.307026+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -15,11 +15,12 @@
             10,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时25分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -28,11 +29,12 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时25分]"
         },
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -41,11 +43,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 15时25分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",
@@ -58,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时24分]"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
           "title": "外媒关注中国发布全球首款AI手机",
