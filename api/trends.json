@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T21:37:25.213961+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-08T22:24:17.356979+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -70,37 +70,64 @@
           "time_info": "[11时23分 ~ 16时33分]"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
-          "url": "https://wallstreetcn.com/livenews/3017019",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
+          "url": "https://flash.jin10.com/detail/20251208215109691800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时24分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
           "url": "https://flash.jin10.com/detail/20251208212300357800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
           "url": "https://wallstreetcn.com/livenews/3017015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
@@ -127,16 +154,28 @@
           "time_info": "[12时35分 ~ 13时24分]"
         },
         {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            11
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时37分]"
+          "time_info": "[21时37分 ~ 22时24分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
+          "url": "https://flash.jin10.com/detail/20251208212102903800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
@@ -150,6 +189,18 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
+          "title": "2025年山东人工智能核心产业营收预计突破1200亿元，约占全国10%",
+          "url": "https://wallstreetcn.com/livenews/3016996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时24分]"
+        },
+        {
           "title": "外媒关注中国发布全球首款AI手机",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -161,28 +212,6 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
-          "url": "https://flash.jin10.com/detail/20251208212154914800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
-          "url": "https://flash.jin10.com/detail/20251208212102903800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
           "url": "https://flash.jin10.com/detail/20251208200524592800",
           "source": "金十数据",
@@ -192,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "特朗普：本周将发布人工智能的单一规则行政令",
+          "url": "https://flash.jin10.com/detail/20251208213431809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
@@ -216,15 +256,26 @@
           "time_info": "16时33分"
         },
         {
-          "title": "2025年山东人工智能核心产业营收预计突破1200亿元，约占全国10%",
-          "url": "https://wallstreetcn.com/livenews/3016996",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）该规则应有助于AI企业明确规则内容。",
+          "url": "https://flash.jin10.com/detail/20251208212910525800",
+          "source": "金十数据",
           "ranks": [
-            19
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）将明确指示美国企业适用某一套规则。",
+          "url": "https://flash.jin10.com/detail/20251208212727809800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
