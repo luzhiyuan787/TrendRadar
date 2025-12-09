@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-09T14:35:05.821499+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-09T15:23:38.313306+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 15时23分]"
+        },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
           "url": "https://www.zhihu.com/question/1981321831689511959",
@@ -20,18 +32,6 @@
           "time_info": "[00时29分 ~ 09时41分]"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 14时35分]"
-        },
-        {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
           "url": "https://www.cls.cn/detail/2223631",
           "source": "财联社热门",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 15时23分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -53,8 +53,22 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 15时23分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时41分 ~ 14时35分]"
+          "time_info": "[11时20分 ~ 15时23分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -62,11 +76,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 15时23分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -79,19 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时41分 ~ 14时35分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 14时35分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -134,11 +136,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时23分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -165,6 +168,18 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时23分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
           "url": "https://flash.jin10.com/detail/20251209021608071800",
           "source": "金十数据",
@@ -175,6 +190,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时23分]"
         },
         {
           "title": "OpenAI报告称：企业人工智能应用激增",
@@ -225,6 +252,17 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209115134820800",
           "source": "金十数据",
@@ -247,17 +285,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
-          "url": "https://wallstreetcn.com/livenews/3017432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -269,17 +296,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
-          "url": "https://flash.jin10.com/detail/20251209140918642800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
           "url": "https://wallstreetcn.com/livenews/3017286",
           "source": "华尔街见闻-快讯",
@@ -289,6 +305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "字节跳动李亮：AI手机助手的本质是机主授权",
+          "url": "https://wallstreetcn.com/livenews/3017448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
