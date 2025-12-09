@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:24:40.861105+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2025-12-09T23:26:39.100494+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 23时26分]"
         },
         {
           "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
@@ -112,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 23时26分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -129,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时21分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[13时21分 ~ 23时26分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
@@ -156,8 +156,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时23分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时23分 ~ 23时26分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -174,6 +174,20 @@
           "time_info": "[09时41分 ~ 15时23分]"
         },
         {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 23时26分]"
+        },
+        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -185,20 +199,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时41分 ~ 15时23分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -236,13 +236,24 @@
           "time_info": "11时20分"
         },
         {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
           "url": "https://flash.jin10.com/detail/20251209215045442800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -275,9 +286,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 23时26分]"
         },
         {
           "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
@@ -338,18 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时25分]"
-        },
-        {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
@@ -545,7 +556,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -583,13 +594,35 @@
           "time_info": "19时21分"
         },
         {
+          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
+          "url": "https://flash.jin10.com/detail/20251209230341120800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特在华尔街日报CEO委员会峰会上表示：人工智能（AI）对生产力的作用比电脑更大。 预计AI并不会造成大规模失业。 AI将是一件好事，就像电脑那样。",
+          "url": "https://wallstreetcn.com/livenews/3017766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "欧盟反垄断官员呼吁增配资源 以应对AI时代科技巨头监管挑战",
           "url": "https://flash.jin10.com/detail/20251209212100757800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
