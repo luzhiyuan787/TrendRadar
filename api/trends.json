@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T19:20:12.666928+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2025-12-10T20:46:04.544164+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时23分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[15时23分 ~ 20时46分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -117,6 +118,21 @@
           "time_info": "[09时44分 ~ 15时24分]"
         },
         {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            25,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 20时46分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -127,20 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 06时21分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -210,6 +212,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时17分]"
+        },
+        {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 20时46分]"
         },
         {
           "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
@@ -283,17 +297,6 @@
           "time_info": "[03时17分 ~ 04时22分]"
         },
         {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
-        },
-        {
           "title": "智谱开源“会操作手机的AI”",
           "url": "https://www.douyin.com/hot/2331460",
           "source": "抖音",
@@ -363,6 +366,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "蓝思科技：拟收购裴美高国际有限公司100%股权 开拓AI算力基础设施新赛道",
+          "url": "https://wallstreetcn.com/livenews/3018452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
           "url": "https://flash.jin10.com/detail/20251210010503413800",
           "source": "金十数据",
@@ -380,7 +394,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -418,13 +432,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
+          "url": "https://wallstreetcn.com/livenews/3018434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "谷歌：在印度推出谷歌AI Plus，定价为每月399卢比。",
           "url": "https://flash.jin10.com/detail/20251210183721161800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -479,7 +504,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
