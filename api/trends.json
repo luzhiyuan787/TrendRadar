@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T02:32:36.505641+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-11T03:20:05.227552+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时20分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时20分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -55,13 +55,24 @@
           "time_info": "[00时29分 ~ 02时32分]"
         },
         {
+          "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
+          "url": "https://wallstreetcn.com/livenews/3018588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
           "url": "https://flash.jin10.com/detail/20251211013151029800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -72,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
