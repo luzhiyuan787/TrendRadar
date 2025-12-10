@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T00:29:27.520556+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T01:24:17.502812+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
           "url": "https://wallstreetcn.com/articles/3761127",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3018538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
