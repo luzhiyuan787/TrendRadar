@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T15:24:16.380813+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-12-10T16:31:14.684617+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -43,6 +43,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 16时31分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -89,20 +104,6 @@
           "time_info": "[09时44分 ~ 15时24分]"
         },
         {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
-          "url": "https://www.cls.cn/detail/2224818",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 15时24分]"
-        },
-        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -113,6 +114,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 06时21分]"
+        },
+        {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -231,17 +244,6 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
           "url": "https://flash.jin10.com/detail/20251210115902763800",
           "source": "金十数据",
@@ -288,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时22分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
