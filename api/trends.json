@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T21:38:33.508591+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2025-12-10T22:24:51.089895+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -92,6 +92,23 @@
           "time_info": "[00时28分 ~ 13时22分]"
         },
         {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            25,
+            11,
+            22,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 22时24分]"
+        },
+        {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
@@ -104,22 +121,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 09时44分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
-            25,
-            11,
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时30分 ~ 21时38分]"
         },
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -135,6 +136,19 @@
           "time_info": "[09时44分 ~ 15时24分]"
         },
         {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时24分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -145,6 +159,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 06时21分]"
+        },
+        {
+          "title": "如何评价 AI 科技自媒体「十字路口」对原神前主创的采访文章?",
+          "url": "https://www.zhihu.com/question/1981848905307137705",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -169,6 +194,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
           "url": "https://flash.jin10.com/detail/20251210011217599800",
           "source": "金十数据",
@@ -180,27 +216,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
+          "title": "市场消息：Meta Platforms CEO扎克伯格指示Meta公司放弃开源人工智能。",
+          "url": "https://flash.jin10.com/detail/20251210220230917800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时38分]"
-        },
-        {
-          "title": "如何评价 AI 科技自媒体「十字路口」对原神前主创的采访文章?",
-          "url": "https://www.zhihu.com/question/1981848905307137705",
-          "source": "知乎",
-          "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
@@ -212,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
@@ -298,6 +333,18 @@
           "time_info": "[20时46分 ~ 21时38分]"
         },
         {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
           "url": "https://flash.jin10.com/detail/20251210115902763800",
           "source": "金十数据",
@@ -320,6 +367,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时22分]"
+        },
+        {
+          "title": "中科曙光回应英伟达合作等问题：产品采用开放架构，支持多类AI加速卡",
+          "url": "https://wallstreetcn.com/livenews/3018464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "智谱开源“会操作手机的AI”",
@@ -403,15 +462,26 @@
           "time_info": "07时21分"
         },
         {
-          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
-          "url": "https://wallstreetcn.com/livenews/3018469",
+          "title": "国家药监局局长李利：推进“人工智能+药品监管”，探索实施人工智能辅助审评",
+          "url": "https://wallstreetcn.com/livenews/3018489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E7%AA%81%E7%A0%B49000%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
@@ -447,24 +517,13 @@
           "time_info": "00时29分"
         },
         {
-          "title": "中科曙光回应英伟达合作等问题：产品采用开放架构，支持多类AI加速卡",
-          "url": "https://wallstreetcn.com/livenews/3018464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
           "url": "https://flash.jin10.com/detail/20251210210732222800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -552,7 +611,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -574,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         }
