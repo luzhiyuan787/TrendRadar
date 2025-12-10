@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:23:58.748282+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-10T12:34:31.013046+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 11时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 12时34分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -53,11 +53,12 @@
             8,
             7,
             28,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 11时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 12时34分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -155,6 +156,30 @@
           "time_info": "[02时29分 ~ 03时17分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 12时34分]"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 12时34分]"
+        },
+        {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
           "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
           "source": "澎湃新闻",
@@ -164,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时21分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 11时23分]"
         },
         {
           "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
@@ -189,16 +203,16 @@
           "time_info": "[03时17分 ~ 04时22分]"
         },
         {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
-          "url": "https://www.cls.cn/detail/2224818",
-          "source": "财联社热门",
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
           "ranks": [
-            12,
-            9
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 11时23分]"
+          "time_info": "[11时23分 ~ 12时34分]"
         },
         {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
@@ -246,6 +260,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210115902763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
           "url": "https://flash.jin10.com/detail/20251210010503413800",
           "source": "金十数据",
@@ -266,17 +291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "摩根大通消费者与社区银行业务首席执行官：借助人工智能，年度生产率增幅从3%提升至6%。",
