@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T04:25:27.450285+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2025-12-12T05:24:20.250404+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -29,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时25分]"
+        },
+        {
+          "title": "美国财长贝森特：金融稳定监督委员会将成立市场和家庭韧性以及人工智能工作组。",
+          "url": "https://flash.jin10.com/detail/20251212032847751800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时24分]"
         },
         {
           "title": "Rivian(RIVN.O)股价大跌9%，此前公司宣布推出首款定制人工智能芯片。",
@@ -117,17 +130,6 @@
           "time_info": "[00时33分 ~ 01时27分]"
         },
         {
-          "title": "美国财长贝森特：金融稳定监督委员会将成立市场和家庭韧性以及人工智能工作组。",
-          "url": "https://flash.jin10.com/detail/20251212032847751800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
           "url": "https://flash.jin10.com/detail/20251212020607458800",
           "source": "金十数据",
@@ -161,6 +163,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
           "url": "https://flash.jin10.com/detail/20251212020239589800",
           "source": "金十数据",
@@ -178,7 +191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
