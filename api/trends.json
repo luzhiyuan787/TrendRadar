@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T07:21:34.764444+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2025-12-12T09:44:40.953867+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时44分]"
         },
         {
           "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
@@ -41,9 +41,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "博通(AVGO.O)盘后股价跌超5%，公司第一财季毛利润率将因AI产品而收缩1%。预计未来六个季度AI芯片销售至少730亿美元。",
@@ -52,7 +63,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -63,7 +74,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -74,7 +85,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -88,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -229,7 +251,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -251,7 +273,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -267,6 +289,28 @@
           "time_info": "01时27分"
         },
         {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中，GPT-5.2即时版、思考版和专业版将于今日开始推出，首先面向付费用户。",
           "url": "https://flash.jin10.com/detail/20251212020525246800",
           "source": "金十数据",
@@ -278,13 +322,24 @@
           "time_info": "02时32分"
         },
         {
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "博通CFO：第一财季毛利润率将因AI产品而收缩1%。",
           "url": "https://wallstreetcn.com/livenews/3019442",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -311,6 +366,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
           "url": "https://wallstreetcn.com/livenews/3019419",
           "source": "华尔街见闻-快讯",
@@ -331,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "OpenAI：正式推出GPT-5.2",
@@ -408,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
