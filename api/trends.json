@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:20:55.664959+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-12-13T18:20:58.044601+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 18时20分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时21分 ~ 17时20分]"
+          "appearance_count": 13,
+          "time_info": "[06时21分 ~ 18时20分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -52,11 +52,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 18时20分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 18时20分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -110,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 18时20分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -174,6 +175,21 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
+          "url": "https://wallstreetcn.com/livenews/3020213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时20分]"
+        },
+        {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
           "url": "https://wallstreetcn.com/livenews/3020118",
           "source": "华尔街见闻-快讯",
@@ -189,20 +205,6 @@
           "time_info": "[03时18分 ~ 07时21分]"
         },
         {
-          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
-          "url": "https://wallstreetcn.com/livenews/3020213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时20分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -213,6 +215,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时33分]"
+        },
+        {
+          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
+          "url": "https://wallstreetcn.com/livenews/3020211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时20分]"
         },
         {
           "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
@@ -248,20 +265,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时39分 ~ 12时27分]"
-        },
-        {
-          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
-          "url": "https://wallstreetcn.com/livenews/3020211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时20分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -302,6 +305,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时39分]"
+        },
+        {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时20分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -348,18 +364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时20分]"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
