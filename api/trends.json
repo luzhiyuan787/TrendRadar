@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:27:52.924294+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-13T13:22:16.509920+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时21分 ~ 13时22分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -43,17 +56,30 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时22分]"
+        },
+        {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时22分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -80,19 +106,6 @@
           "time_info": "[00时27分 ~ 12时27分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 12时27分]"
-        },
-        {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
           "url": "https://www.cls.cn/detail/2227944",
           "source": "财联社热门",
@@ -105,15 +118,31 @@
           "time_info": "[00时27分 ~ 06时21分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 13时22分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时22分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -153,19 +182,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时18分 ~ 07时21分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时27分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -266,19 +282,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 12时27分]"
         },
         {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
