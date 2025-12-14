@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:31:40.027849+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2025-12-14T15:20:28.642618+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -129,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时20分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -180,11 +180,12 @@
           "ranks": [
             1,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时20分]"
         },
         {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
@@ -194,11 +195,12 @@
             6,
             13,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时20分]"
         },
         {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
@@ -209,8 +211,21 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时20分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时31分]"
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -223,18 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 11时39分]"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时31分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
