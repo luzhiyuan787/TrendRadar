@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T16:34:31.213293+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-15T17:33:49.514479+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -67,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 17时33分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -159,9 +159,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "AI健康陪伴搭子阿福上线",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%A5%E5%BA%B7%E9%99%AA%E4%BC%B4%E6%90%AD%E5%AD%90%E9%98%BF%E7%A6%8F%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "因人工智能担忧，三星电子和SK海力士分别大跌4%和6.3%。韩国股市跌幅达2.8%，并将创下近四周来的最差表现。",
