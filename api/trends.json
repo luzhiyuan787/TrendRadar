@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:41:57.537430+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2025-12-15T13:27:05.684470+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,31 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时27分]"
+        },
+        {
+          "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
+          "url": "https://www.cls.cn/detail/2229051",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时27分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -45,39 +70,16 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时41分]"
-        },
-        {
-          "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
-          "url": "https://www.cls.cn/detail/2229051",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时41分]"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
           "url": "https://flash.jin10.com/detail/20251215115553831800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -97,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
