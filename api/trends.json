@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-16T03:21:45.539094+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-12-16T04:25:45.092784+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
       "match_count": 14,
       "titles": [
+        {
+          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
+          "url": "https://www.cls.cn/detail/2230016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时25分]"
+        },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3021118",
@@ -17,29 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
-          "url": "https://www.cls.cn/detail/2230016",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -54,16 +43,29 @@
           "time_info": "[00时32分 ~ 01时26分]"
         },
         {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时25分]"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
           "url": "https://wallstreetcn.com/livenews/3021124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 04时25分]"
         },
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
@@ -71,11 +73,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 04时25分]"
         },
         {
           "title": "高盛：认为铜价容易受到人工智能相关的价格回调影响。",
@@ -161,7 +164,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
