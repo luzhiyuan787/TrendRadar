@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T22:27:13.531794+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2025-12-15T23:26:43.077620+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[11时43分 ~ 16时34分]"
         },
         {
+          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
+          "url": "https://www.cls.cn/detail/2229902",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时26分]"
+        },
+        {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时37分 ~ 19时20分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
-          "url": "https://www.cls.cn/detail/2229902",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时27分]"
         },
         {
           "title": "广西：加快建设中国-东盟人工智能创新合作中心等创新服务平台",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 13时27分]"
+        },
+        {
+          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
+          "url": "https://www.cls.cn/detail/2229723",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时27分]"
-        },
-        {
-          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
-          "url": "https://www.cls.cn/detail/2229723",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "花旗：将标普500指数2026年目标定为7700点，预计AI仍将是关键主题。预计，在牛市情景下，标普500指数可能升至8300点，而在熊市情景下则可能跌至5700点。",
