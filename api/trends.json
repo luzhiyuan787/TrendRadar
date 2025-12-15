@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T04:25:45.092784+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-12-16T05:55:09.977563+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时55分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时55分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
