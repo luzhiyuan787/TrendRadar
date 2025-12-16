@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:27:48.571707+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2025-12-16T18:26:53.488113+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -42,11 +42,12 @@
             11,
             6,
             7,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时26分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -58,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时26分]"
         },
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -71,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 18时26分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -92,7 +93,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -227,6 +228,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "高盛：认为铜价容易受到人工智能相关的价格回调影响。",
           "url": "https://flash.jin10.com/detail/20251216020604795800",
           "source": "金十数据",
@@ -236,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
+          "url": "https://www.cls.cn/detail/2230952",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "意大利企业AI技术使用率翻倍",
