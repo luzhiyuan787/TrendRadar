@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T07:20:59.960416+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-12-17T09:41:24.070716+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时41分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
