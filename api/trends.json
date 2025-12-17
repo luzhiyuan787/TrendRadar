@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:24:32.753306+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-12-17T16:32:10.942387+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时21分 ~ 15时24分]"
+        },
+        {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时32分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -93,18 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时24分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
@@ -164,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时26分]"
+        },
+        {
+          "title": "券商晨会精华：消费领域建议关注国货崛起、AI+消费等结构性机会",
+          "url": "https://www.cls.cn/detail/2231626",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "即梦AI上新，支持声音、画面同步生成",
@@ -231,7 +243,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
