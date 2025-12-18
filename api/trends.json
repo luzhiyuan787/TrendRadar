@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T06:21:48.746992+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-12-19T07:21:43.657837+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -38,11 +38,12 @@
             5,
             11,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -69,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -79,18 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "据华尔街日报：Meta正在开发代号为“Mango”的新型人工智能图像及视频模型。",
-          "url": "https://flash.jin10.com/detail/20251219055119059800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -117,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时22分]"
+        },
+        {
+          "title": "据华尔街日报：Meta正在开发代号为“Mango”的新型人工智能图像及视频模型。",
+          "url": "https://flash.jin10.com/detail/20251219055119059800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "OpenAI：推出GPT-5.2-Codex。",
@@ -191,6 +193,17 @@
           "time_info": "[02时33分 ~ 03时18分]"
         },
         {
+          "title": "机构密集调研AI眼镜产业链公司",
+          "url": "https://wallstreetcn.com/livenews/3023377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
           "url": "https://flash.jin10.com/detail/20251219032029402800",
           "source": "金十数据",
@@ -222,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3023367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
