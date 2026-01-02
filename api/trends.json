@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-01-01T09:12:17.235881+08:00",
+  "generated_at": "2026-01-02T09:06:43.200715+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
+          "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
+          "url": "https://flash.jin10.com/detail/20260102083147084800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
-          "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
-          "url": "https://wallstreetcn.com/livenews/3029490",
+          "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
+          "url": "https://wallstreetcn.com/livenews/3029681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普宣布从芝加哥等三座城市撤军",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     }
