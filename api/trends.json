@@ -1,154 +1,198 @@
 {
-  "generated_at": "2026-01-16T09:07:33.173413+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-01-17T09:04:48.483264+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
-          "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
-          "url": "https://flash.jin10.com/detail/20260116085218464800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
-          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美国总统特朗普：在埃及、土耳其和卡塔尔的支持下，我们将与哈马斯达成一项全面的非军事化协议，包括交出所有武器并拆除每一条地道。哈马斯必须立即履行其承诺，包括向以色列归还最后一具遗体，并毫不拖延地推进全面非军事化。",
-          "url": "https://flash.jin10.com/detail/20260116085158730800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美国总统特朗普：今天与来自委内瑞拉的马查多会面，我深感荣幸。马查多向我赠送了她的诺贝尔和平奖，以表彰我所做的工作。",
-          "url": "https://flash.jin10.com/detail/20260116085137263800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "她给特朗普献了份大礼，诺奖气坏了",
-          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "美国总统特朗普：作为加沙和平委员会主席，我支持一个新任命的巴勒斯坦技术官僚政府——加沙行政全国委员会——在过渡时期治理加沙。",
-          "url": "https://flash.jin10.com/detail/20260116085002026800",
-          "source": "金十数据",
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "据华尔街日报：白宫一名官员表示，特朗普接受了委内瑞拉反对派领导人马查多赠予他的诺贝尔和平奖奖章。",
-          "url": "https://flash.jin10.com/detail/20260116084412871800",
-          "source": "金十数据",
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
+          "title": "特朗普称或对反格陵兰岛计划国加关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "特朗普：正与哈马斯商讨全面非军事化协议。哈马斯必须立即履行承诺。",
-          "url": "https://wallstreetcn.com/livenews/3038305",
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
+          "url": "https://www.cls.cn/detail/2260775",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "川普乱扣帽:自由贸易=亲华",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349170&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B9%B1%E6%89%A3%E5%B8%BD%3A%E8%87%AA%E7%94%B1%E8%B4%B8%E6%98%93%3D%E4%BA%B2%E5%8D%8E",
           "source": "贴吧",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
-          "source": "澎湃新闻",
+          "title": "特朗普自称是个有道德的人",
+          "url": "https://www.toutiao.com/trending/7595171923328827402/",
+          "source": "今日头条",
           "ranks": [
-            14
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
         },
         {
-          "title": "消息人士：一个由两党州长组成的团体将于周五与特朗普政府签署一项协议，以遏制覆盖13个州的PJM地区不断上升的电力成本。该协议将对未来的电力拍卖实施为期两年的价格上限，并强制数据中心分担更多扩建的财政负担。",
-          "url": "https://flash.jin10.com/detail/20260116075804814800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时04分"
+        },
+        {
+          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3039034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     }
