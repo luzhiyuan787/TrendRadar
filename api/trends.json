@@ -1,110 +1,154 @@
 {
-  "generated_at": "2026-01-20T09:06:41.185028+08:00",
+  "generated_at": "2026-01-21T09:08:40.459145+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普和马克龙，直接开干了",
+          "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
+          "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
         },
         {
-          "title": "会武力夺岛？特朗普：无可奉告",
-          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
+          "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
         },
         {
-          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
-          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
+          "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "普京被邀请加入特朗普“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
+          "url": "https://news.ifeng.com/c/8q4peEzXW4m",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
         },
         {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
+          "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
+          "url": "https://wallstreetcn.com/articles/3763653",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "09时08分"
+        },
+        {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国白宫：特朗普总统签署公告，宣布今天（2026年1月20日）为“国家爱国奉献日”。",
+          "url": "https://flash.jin10.com/detail/20260121082033953800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日特朗普将在世界经济论坛年发表讲话，美国最高法院将就库克案听取辩论。",
+          "url": "https://flash.jin10.com/detail/20260121080456103800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美媒：特朗普寻求对伊朗的“决定性”军事方案 选项包含政权更迭",
+          "url": "https://flash.jin10.com/detail/20260121075854400800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "据华尔街日报：美国官员表示，尽管上周已撤回对伊朗的打击计划，但特朗普仍在要求幕僚提供他所谓的“决定性”军事选项。",
+          "url": "https://flash.jin10.com/detail/20260121074757891800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     }
