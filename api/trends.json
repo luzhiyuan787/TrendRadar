@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-02-09T09:23:25.891042+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-10T09:46:19.423044+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "特朗普 川普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美媒：丹麦另一领地或成特朗普的新目标",
+          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "欠费扣旗?川普派美军硬抢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350452&amp;topic_name=%E6%AC%A0%E8%B4%B9%E6%89%A3%E6%97%97%3F%E5%B7%9D%E6%99%AE%E6%B4%BE%E7%BE%8E%E5%86%9B%E7%A1%AC%E6%8A%A2",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
