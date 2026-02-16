@@ -1,44 +1,77 @@
 {
-  "generated_at": "2026-02-15T09:25:28.580945+08:00",
+  "generated_at": "2026-02-16T09:21:58.654614+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时21分"
         },
         {
-          "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
-          "url": "https://flash.jin10.com/detail/20260215082816543800",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
+          "url": "https://flash.jin10.com/detail/20260216082549154800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时21分"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
+          "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
+          "url": "https://flash.jin10.com/detail/20260216075810272800",
+          "source": "金十数据",
           "ranks": [
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时21分"
+        },
+        {
+          "title": "市场消息：特朗普政府取消了环保局为配备启停技术的车辆提供的排放积分，终止了一项旨在奖励汽车制造商安装等红灯时关闭发动机的节油系统的计划。",
+          "url": "https://flash.jin10.com/detail/20260216074424389800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     }
