@@ -1,83 +1,88 @@
 {
-  "generated_at": "2026-02-18T09:23:37.595311+08:00",
+  "generated_at": "2026-02-19T09:22:40.102932+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "哈梅内伊回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
-          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
-          "source": "凤凰网",
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "09时22分"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI Agent",
-      "match_count": 1,
-      "titles": [
+          "time_info": "09时22分"
+        },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     }
