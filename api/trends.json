@@ -1,88 +1,121 @@
 {
-  "generated_at": "2026-03-04T09:17:39.587678+08:00",
+  "generated_at": "2026-03-05T09:20:06.539201+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
           "source": "财联社热门",
           "ranks": [
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E4%BD%A0%E4%B8%88%E5%A4%AB%E4%B8%8B%E4%BB%A4%E8%BD%B0%E7%82%B8%E5%B0%8F%E5%AD%A6%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "西班牙回应特朗普贸易威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B8%E6%98%93%E5%A8%81%E8%83%81%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普夫人，“翻车”了",
+          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "美称打死试图暗杀特朗普的伊朗高官",
+          "url": "https://www.toutiao.com/trending/7613391444652330559/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "民调：57%的选民不认可特朗普的工作表现",
+          "url": "https://flash.jin10.com/detail/20260305085139612800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时20分"
         }
       ]
     }
