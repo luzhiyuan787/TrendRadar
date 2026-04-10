@@ -1,143 +1,149 @@
 {
-  "generated_at": "2026-04-09T09:23:54.262970+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-10T09:48:05.063868+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 12,
+      "match_count": 11,
       "titles": [
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
+          "title": "伊朗战争丨特朗普要求以色列减少打击，以总理：不会",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普威胁对向伊朗供武国家加税",
-          "url": "https://news.ifeng.com/c/8sA9vYHDTBG",
-          "source": "凤凰网",
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8sADQbyVMoK",
-          "source": "凤凰网",
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
-          "url": "https://wallstreetcn.com/articles/3769471",
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
-          "url": "https://news.ifeng.com/c/8sAEfxVEMqZ",
-          "source": "凤凰网",
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
-          "url": "https://wallstreetcn.com/articles/3769466",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
+          "url": "https://www.cls.cn/detail/2339842",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
-          "url": "https://news.ifeng.com/c/8sA49KKqTTa",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "从惊魂到TACO--特朗普震惊世界的12小时",
-          "url": "https://wallstreetcn.com/articles/3769455",
-          "source": "华尔街见闻",
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
+          "url": "https://www.cls.cn/detail/2339829",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
+          "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
+          "url": "https://www.zhihu.com/question/2025532903371580547",
+          "source": "知乎",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
-          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
-          "source": "凤凰网",
+          "title": "黄金涨跌逻辑变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "特朗普不满北约：还记得格陵兰岛吗",
-          "url": "https://wallstreetcn.com/livenews/3084653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         }
       ]
     }
