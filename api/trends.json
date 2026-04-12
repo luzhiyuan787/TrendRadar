@@ -1,154 +1,55 @@
 {
-  "generated_at": "2026-04-11T09:26:22.457239+08:00",
+  "generated_at": "2026-04-12T09:50:48.734288+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
-          "url": "https://flash.jin10.com/detail/20260411090528957800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
           "url": "https://www.cls.cn/detail/2341151",
           "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "09时50分"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
+          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
           "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "09时50分"
         },
         {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
+          "title": "特朗普：并不在意美伊会谈能否达成协议",
+          "url": "https://wallstreetcn.com/livenews/3086291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "09时50分"
         },
         {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普在通话后改口",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%80%9A%E8%AF%9D%E5%90%8E%E6%94%B9%E5%8F%A3%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普向欧洲下了最后通牒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E4%BA%86%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "一再遭特朗普嘲讽 英首相：我受够了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%86%8D%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD+%E8%8B%B1%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E5%8F%97%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "09时50分"
         }
       ]
     }
