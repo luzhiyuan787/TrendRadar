@@ -1,143 +1,210 @@
 {
-  "generated_at": "2026-05-12T10:11:37.935051+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-13T10:36:07.064537+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "title": "特朗普启程访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
+          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
+          "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "鲁比奥赫格塞思随特朗普访华",
+          "url": "https://www.toutiao.com/trending/7638913910263644223/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普启程访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普访华,黄仁勋被踢出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354222&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B8%A2%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
+          "title": "伊朗设谈判门槛，特朗普称“不着急”",
+          "url": "https://news.ifeng.com/c/8t5HGdbHooZ",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普访华在即，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时35分"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时36分"
         },
         {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
+          "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
+          "url": "https://www.zhihu.com/question/2037484197183321093",
+          "source": "知乎",
           "ranks": [
-            6
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普启程",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
+          "title": "美国 16 位商业巨头与特朗普一同访华，为什么是他们？他们背后分别代表哪些产业和商业利益？",
+          "url": "https://www.zhihu.com/question/2037795685987083413",
+          "source": "知乎",
           "ranks": [
-            8
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时36分"
         },
         {
-          "title": "特朗普金卡翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美国再释5350万桶紧急油储，特朗普表态支持暂停汽油税",
-          "url": "https://flash.jin10.com/detail/20260512094739181800",
+          "title": "特朗普：阻止伊朗拥核高于美国人的经济痛苦——“连一点点都没有考虑”",
+          "url": "https://flash.jin10.com/detail/20260513101705151800",
           "source": "金十数据",
           "ranks": [
-            16
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时36分"
         },
         {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.toutiao.com/trending/7638111822163496490/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "特朗普推迟降低牛肉进口关税。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3101929",
+          "title": "英伟达股价美股夜盘涨超2%。此前白宫证实英伟达CEO黄仁勋将随同特朗普访华。",
+          "url": "https://wallstreetcn.com/livenews/3102620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时36分"
+        },
+        {
+          "title": "白宫证实英伟达CEO黄仁勋将随同特朗普访华。 黄仁勋在阿拉斯加登上空军一号前往中国。",
+          "url": "https://wallstreetcn.com/livenews/3102616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     }
