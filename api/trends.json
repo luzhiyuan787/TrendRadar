@@ -1,242 +1,220 @@
 {
-  "generated_at": "2026-05-15T10:26:43.652139+08:00",
+  "generated_at": "2026-05-16T10:09:30.062973+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 21,
+      "match_count": 19,
       "titles": [
         {
-          "title": "详讯丨习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176579",
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://www.douyin.com/hot/2499066",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
-          "url": "https://wallstreetcn.com/articles/3772243",
-          "source": "华尔街见闻",
+          "title": "高市早苗赶忙和特朗普通电话",
+          "url": "https://news.ifeng.com/c/8t9bt9Na6ev",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2038333650341557719",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://wallstreetcn.com/articles/3772261",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "国际社会是怎样看待特朗普本次访华行程的？",
-          "url": "https://www.zhihu.com/question/2038010908488590805",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普参观天坛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33177730",
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
           "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
+          "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
+          "url": "https://flash.jin10.com/detail/20260516095113788800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普访华欢迎宴会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038577207740715513",
+          "source": "知乎",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
-          "url": "https://wallstreetcn.com/articles/3772253",
+          "title": "特朗普结束访华 登空军一号挥手告别",
+          "url": "https://www.toutiao.com/trending/7639187811891904539/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普：美国中餐馆比五大快餐店还多",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%AD%E9%A4%90%E9%A6%86%E6%AF%94%E4%BA%94%E5%A4%A7%E5%BF%AB%E9%A4%90%E5%BA%97%E8%BF%98%E5%A4%9A",
-          "source": "百度热搜",
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普说随访美国商人是自己想来的",
+          "url": "https://www.toutiao.com/trending/7639597869411500086/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普称赞“中国太美了”",
-          "url": "https://www.toutiao.com/trending/7639622366336253958/",
-          "source": "今日头条",
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普：世上最顶级企业都想来中国",
-          "url": "https://www.toutiao.com/trending/7639347847373045814/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普为中国少年儿童驻足鼓掌",
-          "url": "https://www.toutiao.com/trending/7638863754645782534/",
-          "source": "今日头条",
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普访华欢迎仪式完整版视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176000",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普为中国少年儿童驻足鼓掌",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E9%A9%BB%E8%B6%B3%E9%BC%93%E6%8E%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国总统特朗普：获取伊朗的浓缩铀更多是出于公共关系方面的考虑。",
-          "url": "https://flash.jin10.com/detail/20260515095101233800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的浓缩铀可以被封存，但我更希望将其运走。",
-          "url": "https://flash.jin10.com/detail/20260515095002121800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普公布访华团高管名单",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时09分"
         }
       ]
     }
