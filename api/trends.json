@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-05-29T10:31:34.203657+08:00",
+  "generated_at": "2026-05-30T10:14:41.873420+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
