@@ -1,66 +1,33 @@
 {
-  "generated_at": "2026-06-07T10:44:16.798556+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-08T10:48:05.074706+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
           "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "特朗普将出席NBA总决赛",
-          "url": "https://flash.jin10.com/detail/20260607095203635800",
-          "source": "金十数据",
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
-          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
         }
       ]
     }
