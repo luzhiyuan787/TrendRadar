@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T10:48:37.581880+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-15T10:53:00.956886+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,103 +8,103 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
+          "title": "特朗普在农村支持率跌至新低",
+          "url": "https://www.toutiao.com/trending/7651090945659846665/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3119171",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://flash.jin10.com/detail/20260614080502801800",
-          "source": "金十数据",
+          "title": "特朗普：若未达成核协议将重启打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E6%9C%AA%E8%BE%BE%E6%88%90%E6%A0%B8%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%87%8D%E5%90%AF%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
+          "title": "A股航运板块开盘大涨，招商南油、招商轮船、中远海能竞价涨停，国航远洋涨超10%，宁波海运、宁波远洋、南京港等多股高开，消息上，美国总统特朗普当地时间14日宣布，美国与伊朗达成和平协议，霍尔木兹海峡将“免通行费开放”。",
+          "url": "https://wallstreetcn.com/livenews/3119361",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
-          "url": "https://flash.jin10.com/detail/20260614051019663800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
-          "url": "https://flash.jin10.com/detail/20260614045258501800",
-          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时53分"
         }
       ]
     }
