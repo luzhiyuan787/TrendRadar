@@ -1,94 +1,55 @@
 {
-  "generated_at": "2026-07-06T10:24:41.609823+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-07T10:13:30.607084+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时13分"
         },
         {
-          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
-          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
+          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时13分"
         },
         {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时13分"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "特朗普与普京长谈90分钟，普京再发访俄邀请",
-          "url": "https://flash.jin10.com/detail/20260706100221446800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "特朗普发文感谢国际足联",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
-          "url": "https://wallstreetcn.com/articles/3776229",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时13分"
         }
       ]
     }
