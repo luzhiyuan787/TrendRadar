@@ -1,55 +1,44 @@
 {
-  "generated_at": "2026-07-07T10:13:30.607084+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-08T09:53:56.414380+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "09时53分"
         },
         {
-          "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
-          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
-          "url": "https://www.cls.cn/detail/2418537",
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "09时53分"
         },
         {
-          "title": "川普关税施压,美国红牌不禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
+          "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "09时53分"
         }
       ]
     }
