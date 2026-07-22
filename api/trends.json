@@ -1,66 +1,149 @@
 {
-  "generated_at": "2026-07-21T09:52:33.211419+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-22T09:51:32.001553+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
-          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
-          "url": "https://www.cls.cn/detail/2431976",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
+          "url": "https://news.ifeng.com/c/8ux7TemK3px",
           "source": "凤凰网",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "09时51分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "09时51分"
         },
         {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "09时51分"
         },
         {
-          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
-          "url": "https://www.zhihu.com/question/2062557149230903440",
-          "source": "知乎",
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
           "ranks": [
-            16
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股创新药板块走强，药康生物涨超13%，莱美药业涨超8%，益诺思、哈三联、博瑞医药、华兰股份、众生药业等个股跟涨。消息面上，美国总统特朗普当地时间7月21日在社交媒体发文表示，自2026年8月1日起，所有进口到美国的仿制药将在未来两年内继续适用零关税。两年期满后，相关产品将被征收100%的关税，期限为一年；此后，关税将进一步提高至200%。",
+          "url": "https://flash.jin10.com/detail/20260722093524095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普称将打击伊朗核设施",
+          "url": "https://www.toutiao.com/trending/7665119295965236786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普宣布2年后对仿制药征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%832%E5%B9%B4%E5%90%8E%E5%AF%B9%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "伊朗武装部队回应特朗普袭击核设施言论",
+          "url": "https://wallstreetcn.com/livenews/3137835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普想让FIFA主席当联合国秘书长",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%AE%A9FIFA%E4%B8%BB%E5%B8%AD%E5%BD%93%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "淡马锡：人工智能技术突破有望大幅降低能源需求",
+          "url": "https://flash.jin10.com/detail/20260722094308970800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
