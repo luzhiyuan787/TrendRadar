@@ -1,18 +1,84 @@
 {
-  "generated_at": "2026-08-05T09:47:38.020966+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-06T09:47:51.624351+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 1,
+      "match_count": 7,
       "titles": [
         {
-          "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
-          "url": "https://flash.jin10.com/detail/20260805084506889800",
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普震怒质问防长：弹药短缺问题为何还没解决？",
+          "url": "https://flash.jin10.com/detail/20260806092008548800",
           "source": "金十数据",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普回应多次遇“暗杀企图”",
+          "url": "https://www.toutiao.com/trending/7670150786047295497/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3145692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
+          "url": "https://flash.jin10.com/detail/20260806090514682800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
