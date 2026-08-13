@@ -1,121 +1,44 @@
 {
-  "generated_at": "2026-08-12T09:11:37.472034+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-13T09:13:52.487039+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国总统特朗普：我不信任伊朗。",
-          "url": "https://flash.jin10.com/detail/20260812090330266800",
+          "title": "美国总统特朗普周四日程一览",
+          "url": "https://flash.jin10.com/detail/20260813084959344800",
           "source": "金十数据",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "09时13分"
         },
         {
-          "title": "特朗普：我不信任伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3148320",
-          "source": "华尔街见闻-快讯",
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "09时13分"
         },
         {
-          "title": "特朗普以安全理由为其在土耳其更换座机一事辩护。",
-          "url": "https://wallstreetcn.com/livenews/3148319",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普：我乘坐的飞机将面临更大的风险。",
-          "url": "https://flash.jin10.com/detail/20260812090232809800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势良好，我们控制着霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260812090201723800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普谈及第三任期：我很想竞选连任，但法律很硬。",
-          "url": "https://wallstreetcn.com/livenews/3148317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普：在航班变更期间，我遵循了特勤局的指示。",
-          "url": "https://flash.jin10.com/detail/20260812090130039800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3148313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "09时13分"
         }
       ]
     }
