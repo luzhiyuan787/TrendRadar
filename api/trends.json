@@ -1,77 +1,55 @@
 {
-  "generated_at": "2026-08-17T08:45:30.274464+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-20T08:44:31.972071+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "沙土巴3国签署共同防务协议，特朗普发声",
-          "url": "https://news.ifeng.com/c/8veP1BeKo8D",
-          "source": "凤凰网",
+          "title": "特朗普宣布对伊朗发起空前经济战",
+          "url": "https://www.toutiao.com/trending/7675885516922818089/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "08时44分"
         },
         {
-          "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
-          "url": "https://news.ifeng.com/c/8vePFPF1e1S",
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "08时44分"
         },
         {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "特朗普要求“大幅缩减”美韩军演规模",
-          "url": "https://wallstreetcn.com/livenews/3150092",
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://wallstreetcn.com/livenews/3151960",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "08时44分"
+        },
+        {
+          "title": "特朗普：宣布对伊朗实施最严厉的经济行动。",
+          "url": "https://wallstreetcn.com/livenews/3151959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     }
