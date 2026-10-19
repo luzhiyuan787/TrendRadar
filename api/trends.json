@@ -1,55 +1,44 @@
 {
-  "generated_at": "2026-10-18T10:17:53.497613+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-19T10:33:44.447258+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
-          "url": "https://news.ifeng.com/c/8xJat1cyqIn",
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
           "source": "凤凰网",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时33分"
         },
         {
-          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
-          "source": "澎湃新闻",
+          "title": "油价没降、俄乌战事未停，特朗普的柴油外交反成共和党选举难题",
+          "url": "https://flash.jin10.com/detail/20261019100528302800",
+          "source": "金十数据",
           "ranks": [
-            14
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时33分"
         },
         {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
-          "source": "澎湃新闻",
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时33分"
         }
       ]
     }
