@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-10-26T10:27:59.770522+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-27T11:03:06.288873+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普再次给内塔尼亚胡背书",
-          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
+          "title": "“美军已做好打击准备，只等特朗普下令”",
+          "url": "https://original.ifeng.com/c/8xXd9gYztM7",
           "source": "凤凰网",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
-          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-          "url": "https://news.ifeng.com/c/8xWloHz7H6W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "关税博弈VS选战诉求：特朗普将“官宣”大众赴美建厂，为中期选举争取支持",
-          "url": "https://www.cls.cn/detail/2514302",
-          "source": "财联社热门",
+          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "金十整理：卢拉连任巴西总统，特朗普最可能采取的四种反应",
-          "url": "https://flash.jin10.com/detail/20261026095925186800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
         }
       ]
     }
