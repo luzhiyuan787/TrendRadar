@@ -1,33 +1,55 @@
 {
-  "generated_at": "2026-10-27T11:03:06.288873+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-28T11:14:48.657229+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
-          "title": "“美军已做好打击准备，只等特朗普下令”",
-          "url": "https://original.ifeng.com/c/8xXd9gYztM7",
+          "title": "特朗普：委内瑞拉或成为美国第51个州",
+          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
           "source": "凤凰网",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
-          "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
-          "source": "澎湃新闻",
+          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
+          "url": "https://www.cls.cn/detail/2517100",
+          "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "据纽约时报：尽管特朗普目前暂缓重启大规模军事行动，但五角大楼在上个月向议员公布成本估算后的约六周内，仍新增了约35亿美元的开支。",
+          "url": "https://flash.jin10.com/detail/20261028103650772800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "美媒：特朗普批准博索纳罗入境美国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     }
