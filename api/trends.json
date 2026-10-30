@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-10-29T11:40:51.698157+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-30T11:43:00.708011+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如果共和党中期选举输了怎么办？特朗普回应",
-          "url": "https://news.ifeng.com/c/8xabEL09CAG",
-          "source": "凤凰网",
+          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
+          "url": "https://wallstreetcn.com/articles/3784793",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
-          "url": "https://original.ifeng.com/c/8xagHUQBnzH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普与奥巴马因一家餐厅开战",
-          "url": "https://www.toutiao.com/trending/7701870124713643561/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         }
       ]
     }
