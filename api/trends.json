@@ -1,110 +1,143 @@
 {
-  "generated_at": "2026-11-04T12:04:23.672240+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-05T12:25:46.999739+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 川普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美国总统特朗普：我没有参选。如果我参选了，我们会以压倒性优势获胜！",
-          "url": "https://flash.jin10.com/detail/20261104113950146800",
-          "source": "金十数据",
+          "title": "历史性惨败后，特朗普找到最重要原因",
+          "url": "https://news.ifeng.com/c/8xnYAZTWnQ9",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "特朗普在接受采访时表示，他将接受中期选举结果。 特朗普表示，“我们将与民主党合作”。 特朗普称，共和党的失利归咎于他没有出现在选票上。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3193809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "民主党在得州取得历史性胜利，给特朗普带来重创",
-          "url": "https://flash.jin10.com/detail/20261104113911563800",
-          "source": "金十数据",
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
-          "url": "https://wallstreetcn.com/articles/3785095",
+          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
+          "url": "https://wallstreetcn.com/articles/3785146",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
-          "url": "https://www.cls.cn/detail/2524374",
+          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
+          "url": "https://www.cls.cn/detail/2525608",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "特朗普：美国没有立即打击伊朗的计划",
-          "url": "https://news.ifeng.com/c/8xlqlo2dH7V",
-          "source": "凤凰网",
+          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
+          "url": "https://wallstreetcn.com/articles/3785177",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
-          "source": "澎湃新闻",
+          "title": "高市早苗曾嫌弃特朗普周边档次低",
+          "url": "https://www.toutiao.com/trending/7703556804298539062/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "美国总统特朗普：我的名字不在选票上。",
-          "url": "https://wallstreetcn.com/livenews/3193801",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
+          "url": "https://wallstreetcn.com/articles/3785179",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
         },
         {
-          "title": "特朗普民调支持率曾一度跌至 31%，创下历史最低纪录，问题出在哪里？该如何「翻盘」？",
-          "url": "https://www.zhihu.com/question/2099492639410058219",
-          "source": "知乎",
+          "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
+          "url": "https://www.cls.cn/detail/2525653",
+          "source": "财联社热门",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "12时25分"
+        },
+        {
+          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
+          "url": "https://www.zhihu.com/question/2101246252964917912",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "特朗普丢掉国会后 全球贸易战将何去何从？一文读懂！",
+          "url": "https://www.cls.cn/detail/2525872",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "特朗普承认伊朗战事影响中期选举",
+          "url": "https://www.toutiao.com/trending/7703163902487117865/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "特朗普中期选举失利后首次露面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
